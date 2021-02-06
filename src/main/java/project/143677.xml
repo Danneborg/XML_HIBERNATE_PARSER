@@ -1,0 +1,1880 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Response>
+    <Data>
+        <Report ActualDate="2020-10-11">
+            <SparkID>143677</SparkID>
+            <CompanyType>1</CompanyType>
+            <Status IsActing="1" Code="24" Type="Действующее" GroupId="1" GroupName="Действующее" Date="2020-10-11"/>
+            <EGRPOIncluded>true</EGRPOIncluded>
+            <IsActing>true</IsActing>
+            <DateFirstReg>2002-09-09</DateFirstReg>
+            <ShortNameRus>ПАО "РОСТЕЛЕКОМ"</ShortNameRus>
+            <ShortNameEn>Rostelecom, PJSC</ShortNameEn>
+            <FullNameRus>ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО "РОСТЕЛЕКОМ"</FullNameRus>
+            <NormName>РОСТЕЛЕКОМ, ПАО</NormName>
+            <GUID>7A06588465EB4BC6B878262260774F03</GUID>
+            <INN>7707049388</INN>
+            <KPP>784001001</KPP>
+            <OGRN>1027700198767</OGRN>
+            <OKPO>17514186</OKPO>
+            <FCSMCode>00124-A</FCSMCode>
+            <RTS>RTKM</RTS>
+            <OKATO Code="40298000000" RegionName="Санкт-Петербург" RegionCode="40"/>
+            <OKTMO Code="40913000000"/>
+            <OKOGU Code="4210001"
+                   Name="Хозяйственные общества, образованные из  государственных  предприятий, добровольных объединений государственных предприятий"/>
+            <OKFS Code="41" Name="Смешанная российская собственность с долей федеральной собственности"/>
+            <OKOPF Code="47" CodeNew="12247" Name="Публичные акционерные общества"/>
+            <OKVED2List>
+                <OKVED Code="61.10" Name="Деятельность в области связи на базе проводных технологий" IsMain="true"
+                       IsMainEGRUL="true" IsMainRosstat="true"/>
+                <OKVED Code="41.20" Name="Строительство жилых и нежилых зданий"/>
+                <OKVED Code="42.11" Name="Строительство автомобильных дорог и автомагистралей"/>
+                <OKVED Code="42.21"
+                       Name="Строительство инженерных коммуникаций для водоснабжения и водоотведения, газоснабжения"/>
+                <OKVED Code="42.22.1" Name="Строительство междугородних линий электропередачи и связи"/>
+                <OKVED Code="42.22.2" Name="Строительство местных линий электропередачи и связи"/>
+                <OKVED Code="42.99"
+                       Name="Строительство прочих инженерных сооружений, не включенных в другие группировки"/>
+                <OKVED Code="43.12" Name="Подготовка строительной площадки"/>
+                <OKVED Code="43.21" Name="Производство электромонтажных работ"/>
+                <OKVED Code="46.39"
+                       Name="Торговля оптовая неспециализированная пищевыми продуктами, напитками и табачными изделиями"/>
+                <OKVED Code="46.49" Name="Торговля оптовая прочими бытовыми товарами"/>
+                <OKVED Code="46.90" Name="Торговля оптовая неспециализированная"/>
+                <OKVED Code="47.11"
+                       Name="Торговля розничная преимущественно пищевыми продуктами, включая напитки, и табачными изделиями в неспециализированных магазинах"/>
+                <OKVED Code="47.19" Name="Торговля розничная прочая в неспециализированных магазинах"/>
+                <OKVED Code="47.9" Name="Торговля розничная вне магазинов, палаток, рынков"/>
+                <OKVED Code="49.3" Name="Деятельность прочего сухопутного пассажирского транспорта"/>
+                <OKVED Code="49.32"
+                       Name="Деятельность легкового такси и арендованных легковых автомобилей с водителем"/>
+                <OKVED Code="49.4" Name="Деятельность автомобильного грузового транспорта и услуги по перевозкам"/>
+                <OKVED Code="55.90" Name="Деятельность по предоставлению прочих мест для временного проживания"/>
+                <OKVED Code="63.11"
+                       Name="Деятельность по обработке данных, предоставление услуг по размещению информации и связанная с этим деятельность"/>
+                <OKVED Code="63.11.1"
+                       Name="Деятельность по созданию и использованию баз данных и информационных ресурсов"/>
+                <OKVED Code="63.11.9" Name="Деятельность по предоставлению услуг по размещению информации прочая"/>
+                <OKVED Code="63.12" Name="Деятельность web-порталов"/>
+                <OKVED Code="68.1" Name="Покупка и продажа собственного недвижимого имущества"/>
+                <OKVED Code="70.22" Name="Консультирование по вопросам коммерческой деятельности и управления"/>
+                <OKVED Code="71.11.1"
+                       Name="Деятельность в области архитектуры, связанная с созданием архитектурного объекта"/>
+                <OKVED Code="72.19.4" Name="Научные исследования и разработки в области защиты информации"/>
+                <OKVED Code="73.20.1" Name="Исследование конъюнктуры рынка"/>
+                <OKVED Code="77.39.2"
+                       Name="Аренда и лизинг прочих машин и оборудования, не включенных в другие группировки"/>
+            </OKVED2List>
+            <CharterCapital>8731408</CharterCapital>
+            <CharterCapitalHistory>
+                <CharterCapital ActualDate="2015-11-17">6961200</CharterCapital>
+                <CharterCapital ActualDate="2013-12-31">7280089</CharterCapital>
+                <CharterCapital ActualDate="2011-06-01">7965224</CharterCapital>
+                <CharterCapital ActualDate="2002-09-09">2429000</CharterCapital>
+            </CharterCapitalHistory>
+            <ChangesInNameAndLegalForm>
+                <Change>
+                    <Name>ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО МЕЖДУГОРОДНОЙ И МЕЖДУНАРОДНОЙ ЭЛЕКТРИЧЕСКОЙ СВЯЗИ
+                        "РОСТЕЛЕКОМ"
+                    </Name>
+                    <OGRN>1027700198767</OGRN>
+                    <INN>7707049388</INN>
+                    <OKOPF CodeNew="12247" Name="Публичные акционерные общества"/>
+                    <ChangeDate>2018-06-13</ChangeDate>
+                </Change>
+                <Change>
+                    <Name>Публичное акционерное общество междугородной и международной электрической связи
+                        «Ростелеком»
+                    </Name>
+                    <ChangeDate>2015-07-24</ChangeDate>
+                </Change>
+                <Change>
+                    <Name>ОТКРЫТОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО МЕЖДУГОРОДНОЙ И МЕЖДУНАРОДНОЙ ЭЛЕКТРИЧЕСКОЙ СВЯЗИ "РОСТЕЛЕКОМ"
+                    </Name>
+                    <OGRN>1027700198767</OGRN>
+                    <INN>7707049388</INN>
+                    <OKOPF CodeNew="12247" Name="Публичные акционерные общества"/>
+                    <ChangeDate>2015-05-25</ChangeDate>
+                </Change>
+                <Change>
+                    <Name>Открытое акционерное общество междугородной и международной электрической связи «Ростелеком»
+                    </Name>
+                    <ChangeDate>1997-08-26</ChangeDate>
+                </Change>
+                <Change>
+                    <Name>АКЦИОНЕРНОЕ ОБЩЕСТВО ОТКРЫТОГО ТИПА МЕЖДУГОРОДНОЙ И МЕЖДУНАРОДНОЙ ЭЛЕКТРИЧЕСКОЙ СВЯЗИ
+                        "РОСТЕЛЕКОМ"
+                    </Name>
+                    <ChangeDate>1993-09-23</ChangeDate>
+                </Change>
+            </ChangesInNameAndLegalForm>
+            <LeaderList>
+                <Leader ActualDate="2017-03-14" FIO="Осеевский Михаил Эдуардович" Position="президент"
+                        INN="780601120366"/>
+                <Leader ActualDate="2013-04-08" FIO="Калугин Сергей Борисович" Position="президент" INN="770403100523"/>
+                <Leader ActualDate="2010-08-13" FIO="Провоторов Александр Юрьевич" Position="президент"
+                        INN="771670235638"/>
+                <Leader ActualDate="2009-06-22" FIO="Колпаков Антон Юрьевич" Position="президент" INN="781610871071"/>
+                <Leader ActualDate="2008-03-12" FIO="Солодухин Константин Юрьевич" Position="генеральный директор"
+                        INN="773002929220"/>
+                <Leader ActualDate="2003-11-12" FIO="Ерохин Дмитрий Евгеньевич" Position="генеральный директор"
+                        INN="616300597335"/>
+                <Leader ActualDate="2002-09-09" FIO="Кузнецов Сергей Иванович" Position="генеральный директор"
+                        INN="781105701936"/>
+            </LeaderList>
+            <LegalAddresses>
+                <Address PostCode="191002" Address="г. Санкт-Петербург, ул. Достоевского, д. 15"
+                         Region="г. Санкт-Петербург" City="г. Санкт-Петербург" StreetName="ул. Достоевского"
+                         BuildingType="д." BuildingNumber="15" Longitude="30,347875" Latitude="59,924376"
+                         FiasGUID="5d2edc45-8e8d-44e9-9916-3fccd69e4498" IsHouseFiasGUID="true"
+                         FiasCode="780000000000000037800000000" FiasRegion="78" FiasArea="000" FiasCity="000"
+                         FiasPlace="000" FiasPlan="0000" FiasStreet="0378" ActualDate="2020-09-25"/>
+            </LegalAddresses>
+            <PreviousAddress>
+                <Address PostCode="127473" Address="г. Москва, ул. Делегатская, д. 5" Region="г. Москва"
+                         City="г. Москва" StreetName="ул. Делегатская" BuildingNumber="д. 5"
+                         FiasGUID="82b614c0-b4e0-43a6-a78f-eb282dddd43b" IsHouseFiasGUID="true"
+                         FiasCode="770000000000000054300000000" FiasRegion="77" FiasArea="000" FiasCity="000"
+                         FiasPlace="000" FiasPlan="0000" FiasStreet="0543" ActualDate="2002-09-09"/>
+            </PreviousAddress>
+            <PhoneList>
+                <Phone Code="3022" Number="213535"/>
+                <Phone Code="3022" Number="217752"/>
+                <Phone Code="3022" Number="217753"/>
+                <Phone Code="3022" Number="217754"/>
+                <Phone Code="3022" Number="251121"/>
+                <Phone Code="3022" Number="283356"/>
+                <Phone Code="3022" Number="321518"/>
+                <Phone Code="3022" Number="322764"/>
+                <Phone Code="3022" Number="331530"/>
+                <Phone Code="3022" Number="334561"/>
+                <Phone Code="3022" Number="350029"/>
+                <Phone Code="3022" Number="350886"/>
+                <Phone Code="3022" Number="351002"/>
+                <Phone Code="3022" Number="351006"/>
+                <Phone Code="3022" Number="354445"/>
+            </PhoneList>
+            <Email>duz@rt.ru</Email>
+            <Www>www.rostelecom.ru</Www>
+            <WorkersRange>5000 и более</WorkersRange>
+            <IncludeInList>
+                <ListName Id="6" IsNegative="0">Список сдающих отчетность МСФО</ListName>
+                <ListName Id="22" IsNegative="0">Реестр аккредитованных органов по сертификации, испытательных
+                    лабораторий (центров), органов инспекции, провайдеров МСИ
+                </ListName>
+                <ListName Id="49" IsNegative="0">Перечень АО по Распоряжению Правительства 1870-р ("золотая акция")
+                </ListName>
+                <ListName Id="10" IsNegative="0">Российский союз промышленников и предпринимателей</ListName>
+                <ListName Id="36" IsNegative="0">Эмитенты ценных бумаг, допущенных к организованным торгам</ListName>
+                <ListName Id="51" IsNegative="1">Рекомендована проверка справок 2-НДФЛ</ListName>
+                <ListName Id="17" IsNegative="0">Перечень ОАО по Распоряжению Правительства № 91-Р</ListName>
+                <ListName Id="34" IsNegative="0">Перечень лиц, на которых распространяется действие моратория на
+                    банкротство
+                    <AddInfo>
+                        <AddField Name="MoratoriumRejectionDate">2020-07-10</AddField>
+                    </AddInfo>
+                </ListName>
+                <ListName Id="12" IsNegative="0">Реестр монополий по данным ФАС</ListName>
+                <ListName Id="8" IsNegative="0">Перечень системообразующих предприятий</ListName>
+                <ListName Id="4" IsNegative="0">Перечень субъектов предпринимательской деятельности - получателей
+                    поддержки г. Москвы
+                </ListName>
+            </IncludeInList>
+            <ConsolidatedIndicator Value="Low" Description="Низкий риск">
+                <AddInfo>
+                    <AddField Name="IndexOfDueDiligence">Низкий риск</AddField>
+                    <AddField Name="FailureScore">Средний риск</AddField>
+                    <AddField Name="PaymentIndex">Низкий риск просрочки платежа</AddField>
+                </AddInfo>
+            </ConsolidatedIndicator>
+            <IndexOfDueDiligence Index="1" IndexDesc="Низкий риск"/>
+            <FailureScore FailureScoreValue="75" FailureScoreDesc="Средний риск"/>
+            <PaymentIndex PaymentIndexValue="90" PaymentIndexDesc="Низкий риск просрочки платежа"/>
+            <CreditLimit Value="N/A"
+                         Description="Расчет кредитного лимита не осуществляется для следующих категорий юридических лиц: Унитарные предприятия, находящиеся в федеральной или муниципальной собственности; Банки; Страховые компании; Некоммерческие организации; Организации без прав юридического лица, а также для эмитентов, чьи акции обращаются на бирже."/>
+            <CompanySize Revenue="319725,70" Description="Крупные предприятия" ActualDate="2019-12-31"/>
+            <FederalTaxRegistration>
+                <RegDate>2002-09-09</RegDate>
+                <RegAuthority>УМНС России по г.Москве</RegAuthority>
+                <RegAuthorityAddress>115191, г.Москва, ул.Б.Тульская, д.15</RegAuthorityAddress>
+            </FederalTaxRegistration>
+            <FederalTaxRegistrationCurrent>
+                <RegDate>2006-07-25</RegDate>
+                <RegAuthority>Межрайонная инспекция Федеральной налоговой службы №15 по Санкт-Петербургу</RegAuthority>
+                <RegAuthorityAddress>191124, Санкт-Петербург г, Красного Текстильщика ул, 10-12 лит.О
+                </RegAuthorityAddress>
+                <RegAuthorityCode>7847</RegAuthorityCode>
+            </FederalTaxRegistrationCurrent>
+            <FederalTaxRegistrationPayment>
+                <RegDate>2006-07-25</RegDate>
+                <RegAuthority>Межрайонная инспекция Федеральной налоговой службы №9 по Санкт-Петербургу</RegAuthority>
+                <RegAuthorityAddress>190103, Санкт-Петербург г, Лермонтовский пр-кт, 47литераА</RegAuthorityAddress>
+                <RegAuthorityCode>7840</RegAuthorityCode>
+            </FederalTaxRegistrationPayment>
+            <RegistrationInFunds>
+                <PensionFund>
+                    <RegistrationDate>2006-07-25</RegistrationDate>
+                    <RegisterNumber>088027079410</RegisterNumber>
+                    <RegAuthority>Государственное Учреждение Управление Пенсионного фонда РФ по Центральному району
+                        Санкт-Петербурга
+                    </RegAuthority>
+                </PensionFund>
+                <SocialInsuranceFund>
+                    <RegistrationDate>2007-02-13</RegistrationDate>
+                    <RegisterNumber>771600029478041</RegisterNumber>
+                    <RegAuthority>Филиал №4 Санкт-Петербургского регионального отделения Фонда социального страхования
+                        Российской Федерации
+                    </RegAuthority>
+                </SocialInsuranceFund>
+                <CompulsoryMedicalInsuranceFund>
+                    <RegistrationDate>2006-08-17</RegistrationDate>
+                    <RegisterNumber>400000600812992</RegisterNumber>
+                    <RegAuthority>Территориальный фонд обязательного медицинского страхования Санкт-Петербурга
+                    </RegAuthority>
+                </CompulsoryMedicalInsuranceFund>
+            </RegistrationInFunds>
+            <SubmittedStatements>
+                <Statement Form="Р13001" ReferenceNumber="189708А" SubmissionDate="2020-08-26"
+                           AvailabilityDate="2020-09-02" GRN="2207804187920"
+                           DecisionType="Решение о государственной регистрации"/>
+                <Statement Form="Р13001" ReferenceNumber="176582А" SubmissionDate="2020-08-12"
+                           AvailabilityDate="2020-08-20"/>
+                <Statement Form="Р14001" AvailabilityDate="2020-04-13" GRN="2207802013550"
+                           DecisionType="Решение о государственной регистрации"/>
+                <Statement Form="Р13001" ReferenceNumber="71305А" SubmissionDate="2020-03-19"
+                           AvailabilityDate="2020-03-26" GRN="2207801755280"
+                           DecisionType="Решение о государственной регистрации"/>
+                <Statement Form="Р14001" AvailabilityDate="2020-01-20" GRN="2207800265858"
+                           DecisionType="Решение о государственной регистрации"/>
+                <Statement Form="Р14001" AvailabilityDate="2020-01-13" GRN="2207800109999"
+                           DecisionType="Решение о государственной регистрации"/>
+                <Statement Form="Р14001" AvailabilityDate="2019-11-11" GRN="7197848771212"
+                           DecisionType="Решение о государственной регистрации"/>
+                <Statement Form="Р14001" AvailabilityDate="2019-07-19" GRN="2197848910961"
+                           DecisionType="Решение о государственной регистрации"/>
+                <Statement Form="Р13001" ReferenceNumber="124683А" SubmissionDate="2019-06-18"
+                           AvailabilityDate="2019-06-25" GRN="2197848499275"
+                           DecisionType="Решение о государственной регистрации"/>
+                <Statement Form="Р14001" AvailabilityDate="2019-04-10" GRN="9197847286738"
+                           DecisionType="Решение о государственной регистрации"/>
+                <Statement Form="Р14001" AvailabilityDate="2019-03-12" GRN="6197847012676"
+                           DecisionType="Решение о государственной регистрации"/>
+                <Statement Form="Р14001" AvailabilityDate="2018-12-27" GRN="6187848409325"
+                           DecisionType="Решение о государственной регистрации"/>
+                <Statement Form="Р14001" ReferenceNumber="199607А" SubmissionDate="2018-11-07"
+                           AvailabilityDate="2018-11-14" GRN="2187848538601"
+                           DecisionType="Решение о государственной регистрации"/>
+                <Statement Form="Р14001" AvailabilityDate="2018-10-02" GRN="9187847852128"
+                           DecisionType="Решение о государственной регистрации"/>
+                <Statement Form="Р14001" AvailabilityDate="2018-09-04" GRN="9187847443104"
+                           DecisionType="Решение о государственной регистрации"/>
+                <Statement Form="Р14001" AvailabilityDate="2018-09-04" GRN="9187847443148"
+                           DecisionType="Решение о государственной регистрации"/>
+                <Statement Form="Р14001" ReferenceNumber="141493А" SubmissionDate="2018-08-11"
+                           AvailabilityDate="2018-08-17" GRN="9187847200488"
+                           DecisionType="Решение о государственной регистрации"/>
+                <Statement Form="Р14001" ReferenceNumber="141494А" SubmissionDate="2018-08-11"
+                           AvailabilityDate="2018-08-17" GRN="9187847200499"
+                           DecisionType="Решение о государственной регистрации"/>
+                <Statement Form="Р14001" AvailabilityDate="2018-07-26" GRN="8187847866760"
+                           DecisionType="Решение о государственной регистрации"/>
+                <Statement Form="Р13001" ReferenceNumber="111198А" SubmissionDate="2018-06-23"
+                           AvailabilityDate="2018-06-29" GRN="8187847475071"
+                           DecisionType="Решение о государственной регистрации"/>
+                <Statement Form="Р14001" AvailabilityDate="2018-04-04" GRN="6187847560631"
+                           DecisionType="Решение о государственной регистрации"/>
+                <Statement Form="Р14001" AvailabilityDate="2018-03-28" GRN="6187847349332"
+                           DecisionType="Решение о государственной регистрации"/>
+                <Statement Form="Р14001" ReferenceNumber="1318А" SubmissionDate="2018-01-10"
+                           AvailabilityDate="2018-01-17" GRN="2187847233077"
+                           DecisionType="Решение о государственной регистрации"/>
+                <Statement Form="Р14001" ReferenceNumber="180671А" SubmissionDate="2017-10-14"
+                           AvailabilityDate="2017-10-20" GRN="9177847364389"
+                           DecisionType="Решение о государственной регистрации"/>
+                <Statement Form="Р14001" ReferenceNumber="161710А" SubmissionDate="2017-09-13"
+                           AvailabilityDate="2017-09-20" GRN="8177847897571"
+                           DecisionType="Решение о государственной регистрации"/>
+                <Statement Form="Р13001" ReferenceNumber="120369А" SubmissionDate="2017-07-01"
+                           AvailabilityDate="2017-07-07" GRN="7177847781500"
+                           DecisionType="Решение о государственной регистрации"/>
+                <Statement Form="Р14001" ReferenceNumber="108987А" SubmissionDate="2017-06-13"
+                           AvailabilityDate="2017-06-21"/>
+                <Statement Form="Р14001" ReferenceNumber="35839А" SubmissionDate="2017-03-06"
+                           AvailabilityDate="2017-03-15"/>
+                <Statement Form="Р14001" ReferenceNumber="31170А" SubmissionDate="2017-02-27"
+                           AvailabilityDate="2017-03-07"/>
+                <Statement Form="Р14001" ReferenceNumber="96323А" SubmissionDate="2016-07-20"
+                           AvailabilityDate="2016-07-28" GRN="9167847050780"
+                           DecisionType="Решение о государственной регистрации"/>
+                <Statement Form="Р14001" ReferenceNumber="96300А" SubmissionDate="2016-07-20"
+                           AvailabilityDate="2016-07-28" GRN="9167847050770"
+                           DecisionType="Решение о государственной регистрации"/>
+                <Statement Form="Р14001" ReferenceNumber="91677А" SubmissionDate="2016-07-08"
+                           AvailabilityDate="2016-07-18" GRN="8167847934895"
+                           DecisionType="Решение о государственной регистрации"/>
+                <Statement Form="Р13001" ReferenceNumber="91676А" SubmissionDate="2016-07-08"
+                           AvailabilityDate="2016-07-15" GRN="8167847940912"
+                           DecisionType="Решение о государственной регистрации"/>
+                <Statement Form="Р13001" ReferenceNumber="33105А" SubmissionDate="2016-03-18"
+                           AvailabilityDate="2016-03-25" GRN="2167847848518"
+                           DecisionType="Решение о государственной регистрации"/>
+                <Statement Form="Р14001" ReferenceNumber="27127А" SubmissionDate="2016-03-09"
+                           AvailabilityDate="2016-03-17" GRN="2167847705947"
+                           DecisionType="Решение о государственной регистрации"/>
+                <Statement Form="Р13001" ReferenceNumber="692А" SubmissionDate="2016-01-13"
+                           AvailabilityDate="2016-01-20" GRN="2167847157817"
+                           DecisionType="Решение о государственной регистрации"/>
+                <Statement Form="Р13001" ReferenceNumber="163750А" SubmissionDate="2015-11-10"
+                           AvailabilityDate="2015-11-17" GRN="8157848926414"
+                           DecisionType="Решение о государственной регистрации"/>
+                <Statement Form="Р14001" ReferenceNumber="94973А" SubmissionDate="2015-07-06"
+                           AvailabilityDate="2015-07-14" GRN="7157848175511"
+                           DecisionType="Решение о государственной регистрации"/>
+                <Statement Form="Р13001" ReferenceNumber="85791А" SubmissionDate="2015-06-18"
+                           AvailabilityDate="2015-06-24" GRN="6157848985959"
+                           DecisionType="Решение о государственной регистрации"/>
+                <Statement Form="Р14002" AvailabilityDate="2015-06-24" GRN="6157848985948"
+                           DecisionType="Решение о государственной регистрации"/>
+                <Statement Form="Р13001" ReferenceNumber="57942A" SubmissionDate="2014-04-23"
+                           AvailabilityDate="2014-05-05"/>
+                <Statement Form="Р13001" ReferenceNumber="57942А" SubmissionDate="2014-04-23"
+                           AvailabilityDate="2014-04-30" GRN="6147847694450"
+                           DecisionType="Решение о государственной регистрации"/>
+                <Statement Form="Р12001" AvailabilityDate="2014-04-01" GRN="6147847169200"
+                           DecisionType="Решение о государственной регистрации"/>
+                <Statement Form="Р13001" ReferenceNumber="13610А" SubmissionDate="2014-02-06"
+                           AvailabilityDate="2014-02-13" GRN="2147847607147"
+                           DecisionType="Решение о государственной регистрации"/>
+                <Statement Form="Р12003" AvailabilityDate="2014-01-15" GRN="2147847073009"
+                           DecisionType="Решение о государственной регистрации"/>
+                <Statement Form="Р13001" AvailabilityDate="2013-12-31" GRN="9137847614126"
+                           DecisionType="Решение о государственной регистрации"/>
+                <Statement Form="Р13001" AvailabilityDate="2013-12-24" GRN="9137847523464"
+                           DecisionType="Решение о государственной регистрации"/>
+                <Statement Form="Р16003" AvailabilityDate="2013-10-01" GRN="8137847455958"
+                           DecisionType="Решение о государственной регистрации"/>
+                <Statement Form="Р16003" AvailabilityDate="2013-10-01" GRN="8137847456464"
+                           DecisionType="Решение о государственной регистрации"/>
+                <Statement Form="Р16003" AvailabilityDate="2013-10-01" GRN="8137847455837"
+                           DecisionType="Решение о государственной регистрации"/>
+                <Statement Form="Р16003" AvailabilityDate="2013-10-01" GRN="8137847455661"
+                           DecisionType="Решение о государственной регистрации"/>
+                <Statement Form="Р16003" AvailabilityDate="2013-10-01" GRN="8137847455640"
+                           DecisionType="Решение о государственной регистрации"/>
+                <Statement Form="Р16003" AvailabilityDate="2013-10-01" GRN="8137847455606"
+                           DecisionType="Решение о государственной регистрации"/>
+                <Statement Form="Р16003" AvailabilityDate="2013-10-01" GRN="8137847455562"
+                           DecisionType="Решение о государственной регистрации"/>
+                <Statement Form="Р16003" AvailabilityDate="2013-10-01" GRN="8137847455540"
+                           DecisionType="Решение о государственной регистрации"/>
+                <Statement Form="Р16003" AvailabilityDate="2013-10-01" GRN="8137847455529"
+                           DecisionType="Решение о государственной регистрации"/>
+                <Statement Form="Р16003" AvailabilityDate="2013-10-01" GRN="8137847455485"
+                           DecisionType="Решение о государственной регистрации"/>
+                <Statement Form="Р16003" AvailabilityDate="2013-10-01" GRN="8137847455463"
+                           DecisionType="Решение о государственной регистрации"/>
+                <Statement Form="Р16003" AvailabilityDate="2013-10-01" GRN="8137847455441"
+                           DecisionType="Решение о государственной регистрации"/>
+                <Statement Form="Р16003" AvailabilityDate="2013-10-01" GRN="8137847455408"
+                           DecisionType="Решение о государственной регистрации"/>
+                <Statement Form="Р16003" AvailabilityDate="2013-10-01" GRN="8137847455364"
+                           DecisionType="Решение о государственной регистрации"/>
+                <Statement Form="Р16003" AvailabilityDate="2013-10-01" GRN="8137847455276"
+                           DecisionType="Решение о государственной регистрации"/>
+                <Statement Form="Р16003" AvailabilityDate="2013-10-01" GRN="8137847455188"
+                           DecisionType="Решение о государственной регистрации"/>
+                <Statement Form="Р16003" AvailabilityDate="2013-10-01" GRN="8137847456046"
+                           DecisionType="Решение о государственной регистрации"/>
+                <Statement Form="Р16003" AvailabilityDate="2013-10-01" GRN="8137847456156"
+                           DecisionType="Решение о государственной регистрации"/>
+                <Statement Form="Р16003" AvailabilityDate="2013-10-01" GRN="8137847456288"
+                           DecisionType="Решение о государственной регистрации"/>
+                <Statement Form="Р16003" AvailabilityDate="2013-10-01" GRN="8137847456420"
+                           DecisionType="Решение о государственной регистрации"/>
+                <Statement Form="Р13001" AvailabilityDate="2013-09-18" GRN="8137847308679"
+                           DecisionType="Решение о государственной регистрации"/>
+                <Statement Form="Р13001" AvailabilityDate="2013-09-03" GRN="8137847092530"
+                           DecisionType="Решение о государственной регистрации"/>
+                <Statement Form="Р12003" AvailabilityDate="2013-07-26" GRN="7137847648570"
+                           DecisionType="Решение о государственной регистрации"/>
+                <Statement Form="Р13001" AvailabilityDate="2013-07-10" GRN="7137847483976"
+                           DecisionType="Решение о государственной регистрации"/>
+                <Statement Form="Р13001" AvailabilityDate="2013-05-07" GRN="6137847497420"
+                           DecisionType="Решение о государственной регистрации"/>
+                <Statement Form="Р14001" AvailabilityDate="2013-04-08" GRN="6137847147289"
+                           DecisionType="Решение о государственной регистрации"/>
+                <Statement Form="Р13001" AvailabilityDate="2013-03-26" GRN="2137847988848"
+                           DecisionType="Решение о государственной регистрации"/>
+                <Statement Form="Р13001" AvailabilityDate="2013-02-19" GRN="2137847503540"
+                           DecisionType="Решение о государственной регистрации"/>
+                <Statement Form="Р13001" AvailabilityDate="2012-10-29" GRN="9127847388847"
+                           DecisionType="Решение о государственной регистрации"/>
+                <Statement Form="Р13001" AvailabilityDate="2012-07-18" GRN="7127847915034"
+                           DecisionType="Решение о государственной регистрации"/>
+                <Statement Form="Р13001" AvailabilityDate="2012-05-28" GRN="7127847136168"
+                           DecisionType="Решение о государственной регистрации"/>
+                <Statement Form="Р13001" AvailabilityDate="2012-02-10" GRN="2127847546517"
+                           DecisionType="Решение о государственной регистрации"/>
+                <Statement Form="Р13001" AvailabilityDate="2011-07-15" GRN="7117847264242"
+                           DecisionType="Решение о государственной регистрации"/>
+                <Statement Form="Р13001" SubmissionDate="2011-05-25" AvailabilityDate="2011-06-01" GRN="6117847787392"
+                           DecisionType="Решение о государственной регистрации"/>
+                <Statement Form="Р16003" AvailabilityDate="2011-04-01" GRN="2117847860777"
+                           DecisionType="Решение о государственной регистрации"/>
+                <Statement Form="Р16003" AvailabilityDate="2011-04-01" GRN="2117847860744"
+                           DecisionType="Решение о государственной регистрации"/>
+                <Statement Form="Р16003" AvailabilityDate="2011-04-01" GRN="2117847860711"
+                           DecisionType="Решение о государственной регистрации"/>
+                <Statement Form="Р16003" AvailabilityDate="2011-04-01" GRN="2117847860689"
+                           DecisionType="Решение о государственной регистрации"/>
+                <Statement Form="Р16003" AvailabilityDate="2011-04-01" GRN="2117847862240"
+                           DecisionType="Решение о государственной регистрации"/>
+                <Statement Form="Р16003" AvailabilityDate="2011-04-01" GRN="2117847860810"
+                           DecisionType="Решение о государственной регистрации"/>
+                <Statement Form="Р16003" AvailabilityDate="2011-04-01" GRN="2117847862229"
+                           DecisionType="Решение о государственной регистрации"/>
+                <Statement Form="Р16003" AvailabilityDate="2011-04-01" GRN="2117847860942"
+                           DecisionType="Решение о государственной регистрации"/>
+                <Statement Form="Р13001" AvailabilityDate="2011-02-09" GRN="2117847352709"
+                           DecisionType="Решение о государственной регистрации"/>
+                <Statement Form="Р14001" AvailabilityDate="2010-08-30" GRN="8107847621225"
+                           DecisionType="Решение о государственной регистрации"/>
+                <Statement Form="Р12003" AvailabilityDate="2010-08-18" GRN="8107847473363"
+                           DecisionType="Решение о государственной регистрации"/>
+                <Statement Form="Р14001" SubmissionDate="2010-08-09" AvailabilityDate="2010-08-13" GRN="8107847358270"
+                           DecisionType="Решение о государственной регистрации"/>
+                <Statement Form="Р13001" AvailabilityDate="2010-07-20" GRN="7107847950270"
+                           DecisionType="Решение о государственной регистрации"/>
+                <Statement Form="Р14001" SubmissionDate="2010-07-13" AvailabilityDate="2010-07-20" GRN="7107847934264"
+                           DecisionType="Решение о государственной регистрации"/>
+                <Statement Form="Р13001" AvailabilityDate="2010-07-20" GRN="7107847934363"
+                           DecisionType="Решение о государственной регистрации"/>
+                <Statement Form="Р12003" AvailabilityDate="2010-07-13" GRN="7107847852908"
+                           DecisionType="Решение о государственной регистрации"/>
+                <Statement Form="Р14001" AvailabilityDate="2010-06-04" GRN="7107847302061"
+                           DecisionType="Решение о государственной регистрации"/>
+                <Statement Form="Р13001" AvailabilityDate="2009-06-29" GRN="7097847884413"
+                           DecisionType="Решение о государственной регистрации"/>
+                <Statement Form="Р14001" SubmissionDate="2009-06-17" AvailabilityDate="2009-06-22" GRN="7097847738840"
+                           DecisionType="Решение о государственной регистрации"/>
+                <Statement Form="Р13002" AvailabilityDate="2003-11-11" GRN="2037740000747"
+                           DecisionType="Решение о государственной регистрации"/>
+            </SubmittedStatements>
+            <RegistrationCertificates>
+                <RegistrationCertificate Series="77" Number="4891969" IssueDate="2002-09-09" GRN="1027700198767"/>
+                <RegistrationCertificate Series="77" Number="001824000" IssueDate="2002-11-25" GRN="2027740000210"/>
+                <RegistrationCertificate Series="77" Number="001823971" IssueDate="2003-03-03" GRN="2037740000109"/>
+                <RegistrationCertificate Series="77" Number="001823978" IssueDate="2003-03-20" GRN="2037740000175"/>
+                <RegistrationCertificate Series="77" Number="001823979" IssueDate="2003-04-01" GRN="2037740000186"/>
+                <RegistrationCertificate Series="77" Number="001823960" IssueDate="2003-07-04" GRN="2037740000395"/>
+                <RegistrationCertificate Series="77" Number="001823935" IssueDate="2003-11-11" GRN="2037740000747"/>
+                <RegistrationCertificate Series="77" Number="001823940" IssueDate="2003-11-12" GRN="2037740000780"/>
+                <RegistrationCertificate Series="77" Number="009473616" IssueDate="2006-07-25" GRN="2067755256127"/>
+                <RegistrationCertificate Series="78" Number="005839444" IssueDate="2006-12-20" GRN="2069847904487"/>
+                <RegistrationCertificate Series="78" Number="005879462" IssueDate="2007-04-05" GRN="8067746703049"/>
+                <RegistrationCertificate Series="78" Number="006080143" IssueDate="2007-09-03" GRN="9077847070534"/>
+                <RegistrationCertificate Series="78" Number="006790818" IssueDate="2008-03-12" GRN="2089847985412"/>
+                <RegistrationCertificate Series="78" Number="007032142" IssueDate="2008-07-15" GRN="8089847277732"/>
+                <RegistrationCertificate Series="78" Number="006800271" IssueDate="2008-07-24" GRN="8089847374708"/>
+                <RegistrationCertificate Series="78" Number="007182113" IssueDate="2009-06-22" GRN="7097847738840"/>
+                <RegistrationCertificate Series="78" Number="007146642" IssueDate="2009-06-29" GRN="7097847884413"/>
+                <RegistrationCertificate Series="78" Number="007759202" IssueDate="2010-06-04" GRN="7107847302061"/>
+                <RegistrationCertificate Series="78" Number="007797172" IssueDate="2010-07-13" GRN="7107847852908"/>
+                <RegistrationCertificate Series="78" Number="007800029" IssueDate="2010-07-20" GRN="7107847934264"/>
+                <RegistrationCertificate Series="78" Number="007800030" IssueDate="2010-07-20" GRN="7107847934363"/>
+                <RegistrationCertificate Series="78" Number="007789822" IssueDate="2010-07-20" GRN="7107847950270"/>
+                <RegistrationCertificate Series="78" Number="007912241" IssueDate="2010-08-13" GRN="8107847358270"/>
+                <RegistrationCertificate Series="78" Number="007488050" IssueDate="2010-08-18" GRN="8107847473363"/>
+                <RegistrationCertificate Series="78" Number="007487649" IssueDate="2010-08-30" GRN="8107847621225"/>
+                <RegistrationCertificate Series="78" Number="008163742" IssueDate="2011-02-09" GRN="2117847352709"/>
+                <RegistrationCertificate Series="78" Number="008195502" IssueDate="2011-03-24" GRN="2117847766199"/>
+                <RegistrationCertificate Series="78" Number="008200607" IssueDate="2011-04-01" GRN="2117847860777"/>
+                <RegistrationCertificate Series="78" Number="008200609" IssueDate="2011-04-01" GRN="2117847860810"/>
+                <RegistrationCertificate Series="78" Number="008200616" IssueDate="2011-04-01" GRN="2117847860942"/>
+                <RegistrationCertificate Series="78" Number="008200611" IssueDate="2011-04-01" GRN="2117847862229"/>
+                <RegistrationCertificate Series="78" Number="008200613" IssueDate="2011-04-01" GRN="2117847862240"/>
+                <RegistrationCertificate Series="78" Number="008200603" IssueDate="2011-04-01" GRN="2117847860711"/>
+                <RegistrationCertificate Series="78" Number="008200601" IssueDate="2011-04-01" GRN="2117847860689"/>
+                <RegistrationCertificate Series="78" Number="008200605" IssueDate="2011-04-01" GRN="2117847860744"/>
+                <RegistrationCertificate Series="78" Number="008267250" IssueDate="2011-06-01" GRN="6117847787392"/>
+                <RegistrationCertificate Series="78" Number="008289129" IssueDate="2011-06-16" GRN="6117847949037"/>
+                <RegistrationCertificate Series="78" Number="008277814" IssueDate="2011-07-15" GRN="7117847264242"/>
+                <RegistrationCertificate Series="78" Number="008512434" IssueDate="2012-02-10" GRN="2127847546517"/>
+                <RegistrationCertificate Series="78" Number="008593157" IssueDate="2012-05-28" GRN="7127847136168"/>
+                <RegistrationCertificate Series="78" Number="008611539" IssueDate="2012-07-18" GRN="7127847915034"/>
+                <RegistrationCertificate Series="78" Number="008700188" IssueDate="2012-10-29" GRN="9127847388847"/>
+                <RegistrationCertificate Series="78" Number="008779798" IssueDate="2013-02-19" GRN="2137847503540"/>
+                <RegistrationCertificate Series="78" Number="008953213" IssueDate="2013-03-26" GRN="2137847988848"/>
+                <RegistrationCertificate Series="78" Number="008956199" IssueDate="2013-04-08" GRN="6137847147289"/>
+                <RegistrationCertificate Series="78" Number="008991998" IssueDate="2013-05-07" GRN="6137847497420"/>
+                <RegistrationCertificate Series="78" Number="009025520" IssueDate="2013-06-19" GRN="7137847194115"/>
+            </RegistrationCertificates>
+            <StructureInfo>
+                <CountCoownerFCSM>20</CountCoownerFCSM>
+                <CountCoownerRosstat>10</CountCoownerRosstat>
+                <CountCoownerEGRUL>0</CountCoownerEGRUL>
+                <CountBranch>79</CountBranch>
+                <CountBranchRosstat>341</CountBranchRosstat>
+                <CountBranchEGRUL>72</CountBranchEGRUL>
+                <CountAffiliatedCompanyFCSM>39</CountAffiliatedCompanyFCSM>
+                <CountAffiliatedCompanyRosstat>40</CountAffiliatedCompanyRosstat>
+                <CountAffiliatedCompanyEGRUL>29</CountAffiliatedCompanyEGRUL>
+                <NonprofitOrganizationRosstat>1</NonprofitOrganizationRosstat>
+            </StructureInfo>
+            <AccessibleFinData>
+                <Period IDPeriod="557" Name="2020 - II кв." EndDate="2020-06-30"/>
+                <Period IDPeriod="556" Name="2020 - I кв." EndDate="2020-03-31"/>
+                <Period IDPeriod="555" Name="2019" EndDate="2019-12-31"/>
+                <Period IDPeriod="554" Name="2019 - III кв." EndDate="2019-09-30"/>
+                <Period IDPeriod="553" Name="2019 - II кв." EndDate="2019-06-30"/>
+                <Period IDPeriod="552" Name="2019 - I кв." EndDate="2019-03-31"/>
+                <Period IDPeriod="551" Name="2018" EndDate="2018-12-31"/>
+                <Period IDPeriod="550" Name="2018 - III кв." EndDate="2018-09-30"/>
+                <Period IDPeriod="549" Name="2018 - II кв." EndDate="2018-06-30"/>
+                <Period IDPeriod="548" Name="2018 - I кв." EndDate="2018-03-31"/>
+                <Period IDPeriod="547" Name="2017" EndDate="2017-12-31"/>
+                <Period IDPeriod="546" Name="2017 - III кв." EndDate="2017-09-30"/>
+                <Period IDPeriod="545" Name="2017 - II кв." EndDate="2017-06-30"/>
+                <Period IDPeriod="544" Name="2017 - I кв." EndDate="2017-03-31"/>
+                <Period IDPeriod="543" Name="2016" EndDate="2016-12-31"/>
+                <Period IDPeriod="542" Name="2016 - III кв." EndDate="2016-09-30"/>
+                <Period IDPeriod="541" Name="2016 - II кв." EndDate="2016-06-30"/>
+                <Period IDPeriod="540" Name="2016 - I кв." EndDate="2016-03-31"/>
+                <Period IDPeriod="539" Name="2015" EndDate="2015-12-31"/>
+                <Period IDPeriod="538" Name="2015 - III кв." EndDate="2015-09-30"/>
+                <Period IDPeriod="537" Name="2015 - II кв." EndDate="2015-06-30"/>
+                <Period IDPeriod="536" Name="2015 - I кв." EndDate="2015-03-31"/>
+                <Period IDPeriod="535" Name="2014" EndDate="2014-12-31"/>
+                <Period IDPeriod="534" Name="2014 - III кв." EndDate="2014-09-30"/>
+                <Period IDPeriod="533" Name="2014 - II кв." EndDate="2014-06-30"/>
+                <Period IDPeriod="532" Name="2014 - I кв." EndDate="2014-03-31"/>
+                <Period IDPeriod="531" Name="2013" EndDate="2013-12-31"/>
+                <Period IDPeriod="529" Name="2013 - III кв." EndDate="2013-09-30"/>
+                <Period IDPeriod="528" Name="2013 - II кв." EndDate="2013-06-30"/>
+                <Period IDPeriod="527" Name="2013 - I кв." EndDate="2013-03-31"/>
+                <Period IDPeriod="526" Name="2012" EndDate="2012-12-31"/>
+                <Period IDPeriod="506" Name="2012 - III кв." EndDate="2012-09-30"/>
+                <Period IDPeriod="486" Name="2012 - II кв." EndDate="2012-06-30"/>
+                <Period IDPeriod="466" Name="2012 - I кв." EndDate="2012-03-31"/>
+                <Period IDPeriod="426" Name="2011" EndDate="2011-12-31"/>
+                <Period IDPeriod="403" Name="2010" EndDate="2010-12-31"/>
+                <Period IDPeriod="383" Name="2010 - III кв." EndDate="2010-09-30"/>
+                <Period IDPeriod="363" Name="2010 - II кв." EndDate="2010-06-30"/>
+                <Period IDPeriod="347" Name="2010 - I кв." EndDate="2010-03-31"/>
+                <Period IDPeriod="346" Name="2009" EndDate="2009-12-31"/>
+                <Period IDPeriod="345" Name="2009 - III кв." EndDate="2009-09-30"/>
+                <Period IDPeriod="344" Name="2009 - II кв." EndDate="2009-06-30"/>
+                <Period IDPeriod="343" Name="2009 - I кв." EndDate="2009-03-31"/>
+                <Period IDPeriod="323" Name="2008" EndDate="2008-12-31"/>
+                <Period IDPeriod="322" Name="2008 - III кв." EndDate="2008-09-30"/>
+                <Period IDPeriod="321" Name="2008 - II кв." EndDate="2008-06-30"/>
+                <Period IDPeriod="320" Name="2008 - I кв." EndDate="2008-03-31"/>
+                <Period IDPeriod="319" Name="2007" EndDate="2007-12-31"/>
+                <Period IDPeriod="318" Name="2007 - III кв." EndDate="2007-09-30"/>
+                <Period IDPeriod="317" Name="2007 - II кв." EndDate="2007-06-30"/>
+                <Period IDPeriod="316" Name="2007 - I кв." EndDate="2007-03-31"/>
+                <Period IDPeriod="315" Name="2006" EndDate="2006-12-31"/>
+                <Period IDPeriod="314" Name="2006 - III кв." EndDate="2006-09-30"/>
+                <Period IDPeriod="313" Name="2006 - II кв." EndDate="2006-06-30"/>
+                <Period IDPeriod="312" Name="2006 - I кв." EndDate="2006-03-31"/>
+                <Period IDPeriod="311" Name="2005" EndDate="2005-12-31"/>
+                <Period IDPeriod="310" Name="2005 - III кв." EndDate="2005-09-30"/>
+                <Period IDPeriod="309" Name="2005 - II кв." EndDate="2005-06-30"/>
+                <Period IDPeriod="308" Name="2005 - I кв." EndDate="2005-03-31"/>
+                <Period IDPeriod="307" Name="2004" EndDate="2004-12-31"/>
+                <Period IDPeriod="306" Name="2004 - III кв." EndDate="2004-09-30"/>
+                <Period IDPeriod="305" Name="2004 - II кв." EndDate="2004-06-30"/>
+                <Period IDPeriod="304" Name="2004 - I кв." EndDate="2004-03-31"/>
+                <Period IDPeriod="303" Name="2003" EndDate="2003-12-31"/>
+                <Period IDPeriod="302" Name="2003 - III кв." EndDate="2003-09-30"/>
+                <Period IDPeriod="283" Name="2003 - II кв." EndDate="2003-06-30"/>
+                <Period IDPeriod="282" Name="2003 - I кв." EndDate="2003-03-31"/>
+                <Period IDPeriod="262" Name="2002" EndDate="2002-12-31"/>
+                <Period IDPeriod="28" Name="2002 - III кв." EndDate="2002-09-30"/>
+                <Period IDPeriod="27" Name="2002 - II кв." EndDate="2002-06-30"/>
+                <Period IDPeriod="26" Name="2002 - I кв." EndDate="2002-03-31"/>
+                <Period IDPeriod="25" Name="2001" EndDate="2001-12-31"/>
+                <Period IDPeriod="23" Name="2001 - II кв." EndDate="2001-06-30"/>
+                <Period IDPeriod="21" Name="2000" EndDate="2000-12-31"/>
+                <Period IDPeriod="16" Name="1999" EndDate="1999-12-31"/>
+                <Period IDPeriod="15" Name="1999 - III кв." EndDate="1999-09-30"/>
+                <Period IDPeriod="13" Name="1999 - I кв." EndDate="1999-03-31"/>
+            </AccessibleFinData>
+            <Finance BalanceType="1">
+                <FinPeriod PeriodName="2016" DateBegin="2016-01-01" DateEnd="2016-12-31">
+                    <StringList>
+                        <String Form="Баланс" Section="Актив" Name="Нематериальные активы" Code="1110"
+                                Value="2227224000" IdFinPok="1"/>
+                        <String Form="Баланс" Section="Актив" Name="Основные средства" Code="1150" Value="320615058000"
+                                IdFinPok="5"/>
+                        <String Form="Баланс" Section="Актив" Name="Доходные вложения в материальные ценности"
+                                Code="1160" Value="12477047000" IdFinPok="9"/>
+                        <String Form="Баланс" Section="Актив" Name="Долгосрочные финансовые вложения" Code="1170"
+                                Value="144514100000" IdFinPok="12"/>
+                        <String Form="Баланс" Section="Актив" Name="Прочие внеоборотные активы" Code="1190"
+                                Value="27873408000" IdFinPok="18"/>
+                        <String Form="Баланс" Section="Актив" Name="Внеоборотные активы" Code="1100"
+                                Value="508790205000" IdFinPok="19"/>
+                        <String Form="Баланс" Section="Актив" Name="Запасы" Code="1210" Value="6179449000"
+                                IdFinPok="20"/>
+                        <String Form="Баланс" Section="Актив" Name="НДС по приобретенным ценностям" Code="1220"
+                                Value="1717001000" IdFinPok="28"/>
+                        <String Form="Баланс" Section="Актив" Name="Дебиторская задолженность" Code="1230"
+                                Value="48209505000" IdFinPok="157"/>
+                        <String Form="Баланс" Section="Актив" Name="Краткосрочные финансовые вложения" Code="1240"
+                                Value="6193518000" IdFinPok="42"/>
+                        <String Form="Баланс" Section="Актив" Name="Денежные средства и денежные эквиваленты"
+                                Code="1250" Value="3388221000" IdFinPok="46"/>
+                        <String Form="Баланс" Section="Актив" Name="Прочие оборотные активы" Code="1260"
+                                Value="712741000" IdFinPok="51"/>
+                        <String Form="Баланс" Section="Актив" Name="Оборотные активы" Code="1200" Value="66400435000"
+                                IdFinPok="52"/>
+                        <String Form="Баланс" Section="Актив" Name="Активы  всего" Code="1600" Value="575190640000"
+                                IdFinPok="53"/>
+                        <String Form="Баланс" Section="Пассив" Name="Уставный капитал" Code="1310" Value="6961000"
+                                IdFinPok="54"/>
+                        <String Form="Баланс" Section="Пассив" Name="Добавочный капитал" Code="1350"
+                                Value="129886253000" IdFinPok="55"/>
+                        <String Form="Баланс" Section="Пассив" Name="Резервный капитал" Code="1360" Value="1044000"
+                                IdFinPok="56"/>
+                        <String Form="Баланс" Section="Пассив" Name="Нераспределенная прибыль (непокрытый убыток)"
+                                Code="1370" Value="141516448000" IdFinPok="64"/>
+                        <String Form="Баланс" Section="Пассив" Name="Капитал и резервы" Code="1300" Value="274419359000"
+                                IdFinPok="66"/>
+                        <String Form="Баланс" Section="Пассив" Name="Заёмные средства (долгосрочные)" Code="1410"
+                                Value="125562445000" IdFinPok="67"/>
+                        <String Form="Баланс" Section="Пассив" Name="Отложенные налоговые обязательства" Code="1420"
+                                Value="33942373000" IdFinPok="99"/>
+                        <String Form="Баланс" Section="Пассив" Name="Прочие долгосрочные обязательства" Code="1450"
+                                Value="5349734000" IdFinPok="70"/>
+                        <String Form="Баланс" Section="Пассив" Name="Долгосрочные обязательства" Code="1400"
+                                Value="164854552000" IdFinPok="71"/>
+                        <String Form="Баланс" Section="Пассив" Name="Заёмные средства (краткосрочные)" Code="1510"
+                                Value="68295109000" IdFinPok="72"/>
+                        <String Form="Баланс" Section="Пассив" Name="Кредиторская задолженность" Code="1520"
+                                Value="56111530000" IdFinPok="75"/>
+                        <String Form="Баланс" Section="Пассив" Name="Доходы будущих периодов" Code="1530"
+                                Value="410643000" IdFinPok="85"/>
+                        <String Form="Баланс" Section="Пассив" Name="Краткосрочные обязательства" Code="1500"
+                                Value="135916729000" IdFinPok="89"/>
+                        <String Form="Баланс" Section="Пассив" Name="Пассивы всего" Code="1700" Value="575190640000"
+                                IdFinPok="90"/>
+                        <String Form="Отчет о финансовых результатах"
+                                Section="Доходы и расходы по обычным видам деятельности" Name="Выручка" Code="2110"
+                                Value="282684864000" IdFinPok="91"/>
+                        <String Form="Отчет о финансовых результатах"
+                                Section="Доходы и расходы по обычным видам деятельности" Name="Себестоимость продаж"
+                                Code="2120" Value="254601492000" IdFinPok="101"/>
+                        <String Form="Отчет о финансовых результатах"
+                                Section="Доходы и расходы по обычным видам деятельности" Name="Валовая прибыль (убыток)"
+                                Code="2100" Value="28083372000" IdFinPok="110"/>
+                        <String Form="Отчет о финансовых результатах"
+                                Section="Доходы и расходы по обычным видам деятельности"
+                                Name="Прибыль (убыток) от продажи" Code="2200" Value="28083372000" IdFinPok="113"/>
+                        <String Form="Отчет о финансовых результатах" Section="Операционные доходы и расходы"
+                                Name="Доходы от участия в других организациях" Code="2310" Value="4095678000"
+                                IdFinPok="116"/>
+                        <String Form="Отчет о финансовых результатах" Section="Операционные доходы и расходы"
+                                Name="Проценты к получению" Code="2320" Value="1899062000" IdFinPok="114"/>
+                        <String Form="Отчет о финансовых результатах" Section="Операционные доходы и расходы"
+                                Name="Проценты к уплате" Code="2330" Value="16635654000" IdFinPok="115"/>
+                        <String Form="Отчет о финансовых результатах" Section="Операционные доходы и расходы"
+                                Name="Прочие доходы" Code="2340" Value="20642955000" IdFinPok="117"/>
+                        <String Form="Отчет о финансовых результатах" Section="Операционные доходы и расходы"
+                                Name="Прочие расходы" Code="2350" Value="23275233000" IdFinPok="92"/>
+                        <String Form="Отчет о финансовых результатах" Section="Операционные доходы и расходы"
+                                Name="Прибыль (убыток) до налогообложения" Code="2300" Value="14810180000"
+                                IdFinPok="95"/>
+                        <String Form="Отчет о финансовых результатах" Section="Операционные доходы и расходы"
+                                Name="Текущий налог на прибыль" Code="2410" Value="-3049416000" IdFinPok="96"/>
+                        <String Form="Отчет о финансовых результатах" Section="Операционные доходы и расходы"
+                                Name="Чистая прибыль (убыток)" Code="2400" Value="10902202000" IdFinPok="100"/>
+                    </StringList>
+                </FinPeriod>
+                <FinPeriod PeriodName="2017" DateBegin="2017-01-01" DateEnd="2017-12-31">
+                    <StringList>
+                        <String Form="Баланс" Section="Актив" Name="Нематериальные активы" Code="1110"
+                                Value="2844349000" IdFinPok="1"/>
+                        <String Form="Баланс" Section="Актив" Name="Основные средства" Code="1150" Value="321424771000"
+                                IdFinPok="5"/>
+                        <String Form="Баланс" Section="Актив" Name="Доходные вложения в материальные ценности"
+                                Code="1160" Value="12710694000" IdFinPok="9"/>
+                        <String Form="Баланс" Section="Актив" Name="Долгосрочные финансовые вложения" Code="1170"
+                                Value="143059993000" IdFinPok="12"/>
+                        <String Form="Баланс" Section="Актив" Name="Прочие внеоборотные активы" Code="1190"
+                                Value="31997663000" IdFinPok="18"/>
+                        <String Form="Баланс" Section="Актив" Name="Внеоборотные активы" Code="1100"
+                                Value="512886052000" IdFinPok="19"/>
+                        <String Form="Баланс" Section="Актив" Name="Запасы" Code="1210" Value="6059672000"
+                                IdFinPok="20"/>
+                        <String Form="Баланс" Section="Актив" Name="НДС по приобретенным ценностям" Code="1220"
+                                Value="2180922000" IdFinPok="28"/>
+                        <String Form="Баланс" Section="Актив" Name="Дебиторская задолженность" Code="1230"
+                                Value="51696338000" IdFinPok="157"/>
+                        <String Form="Баланс" Section="Актив" Name="Краткосрочные финансовые вложения" Code="1240"
+                                Value="4223439000" IdFinPok="42"/>
+                        <String Form="Баланс" Section="Актив" Name="Денежные средства и денежные эквиваленты"
+                                Code="1250" Value="3765630000" IdFinPok="46"/>
+                        <String Form="Баланс" Section="Актив" Name="Прочие оборотные активы" Code="1260"
+                                Value="712517000" IdFinPok="51"/>
+                        <String Form="Баланс" Section="Актив" Name="Оборотные активы" Code="1200" Value="68638518000"
+                                IdFinPok="52"/>
+                        <String Form="Баланс" Section="Актив" Name="Активы  всего" Code="1600" Value="581524570000"
+                                IdFinPok="53"/>
+                        <String Form="Баланс" Section="Пассив" Name="Уставный капитал" Code="1310" Value="6961000"
+                                IdFinPok="54"/>
+                        <String Form="Баланс" Section="Пассив" Name="Добавочный капитал" Code="1350"
+                                Value="134586253000" IdFinPok="55"/>
+                        <String Form="Баланс" Section="Пассив" Name="Резервный капитал" Code="1360" Value="1044000"
+                                IdFinPok="56"/>
+                        <String Form="Баланс" Section="Пассив" Name="Нераспределенная прибыль (непокрытый убыток)"
+                                Code="1370" Value="135424446000" IdFinPok="64"/>
+                        <String Form="Баланс" Section="Пассив" Name="Капитал и резервы" Code="1300" Value="272879797000"
+                                IdFinPok="66"/>
+                        <String Form="Баланс" Section="Пассив" Name="Заёмные средства (долгосрочные)" Code="1410"
+                                Value="165781443000" IdFinPok="67"/>
+                        <String Form="Баланс" Section="Пассив" Name="Отложенные налоговые обязательства" Code="1420"
+                                Value="33364110000" IdFinPok="99"/>
+                        <String Form="Баланс" Section="Пассив" Name="Прочие долгосрочные обязательства" Code="1450"
+                                Value="5199606000" IdFinPok="70"/>
+                        <String Form="Баланс" Section="Пассив" Name="Долгосрочные обязательства" Code="1400"
+                                Value="204345159000" IdFinPok="71"/>
+                        <String Form="Баланс" Section="Пассив" Name="Заёмные средства (краткосрочные)" Code="1510"
+                                Value="32709276000" IdFinPok="72"/>
+                        <String Form="Баланс" Section="Пассив" Name="Кредиторская задолженность" Code="1520"
+                                Value="57426453000" IdFinPok="75"/>
+                        <String Form="Баланс" Section="Пассив" Name="Доходы будущих периодов" Code="1530"
+                                Value="1113012000" IdFinPok="85"/>
+                        <String Form="Баланс" Section="Пассив" Name="Краткосрочные обязательства" Code="1500"
+                                Value="104299614000" IdFinPok="89"/>
+                        <String Form="Баланс" Section="Пассив" Name="Пассивы всего" Code="1700" Value="581524570000"
+                                IdFinPok="90"/>
+                        <String Form="Отчет о финансовых результатах"
+                                Section="Доходы и расходы по обычным видам деятельности" Name="Выручка" Code="2110"
+                                Value="291037118000" IdFinPok="91"/>
+                        <String Form="Отчет о финансовых результатах"
+                                Section="Доходы и расходы по обычным видам деятельности" Name="Себестоимость продаж"
+                                Code="2120" Value="266117254000" IdFinPok="101"/>
+                        <String Form="Отчет о финансовых результатах"
+                                Section="Доходы и расходы по обычным видам деятельности" Name="Валовая прибыль (убыток)"
+                                Code="2100" Value="24919864000" IdFinPok="110"/>
+                        <String Form="Отчет о финансовых результатах"
+                                Section="Доходы и расходы по обычным видам деятельности"
+                                Name="Прибыль (убыток) от продажи" Code="2200" Value="24919864000" IdFinPok="113"/>
+                        <String Form="Отчет о финансовых результатах" Section="Операционные доходы и расходы"
+                                Name="Доходы от участия в других организациях" Code="2310" Value="870703000"
+                                IdFinPok="116"/>
+                        <String Form="Отчет о финансовых результатах" Section="Операционные доходы и расходы"
+                                Name="Проценты к получению" Code="2320" Value="2324886000" IdFinPok="114"/>
+                        <String Form="Отчет о финансовых результатах" Section="Операционные доходы и расходы"
+                                Name="Проценты к уплате" Code="2330" Value="16154316000" IdFinPok="115"/>
+                        <String Form="Отчет о финансовых результатах" Section="Операционные доходы и расходы"
+                                Name="Прочие доходы" Code="2340" Value="26757034000" IdFinPok="117"/>
+                        <String Form="Отчет о финансовых результатах" Section="Операционные доходы и расходы"
+                                Name="Прочие расходы" Code="2350" Value="26388053000" IdFinPok="92"/>
+                        <String Form="Отчет о финансовых результатах" Section="Операционные доходы и расходы"
+                                Name="Прибыль (убыток) до налогообложения" Code="2300" Value="12330118000"
+                                IdFinPok="95"/>
+                        <String Form="Отчет о финансовых результатах" Section="Операционные доходы и расходы"
+                                Name="Текущий налог на прибыль" Code="2410" Value="-5555317000" IdFinPok="96"/>
+                        <String Form="Отчет о финансовых результатах" Section="Операционные доходы и расходы"
+                                Name="Чистая прибыль (убыток)" Code="2400" Value="8888984000" IdFinPok="100"/>
+                    </StringList>
+                </FinPeriod>
+                <FinPeriod PeriodName="2018" DateBegin="2018-01-01" DateEnd="2018-12-31">
+                    <StringList>
+                        <String Form="Баланс" Section="Актив" Name="Нематериальные активы" Code="1110"
+                                Value="2683571000" IdFinPok="1"/>
+                        <String Form="Баланс" Section="Актив" Name="Основные средства" Code="1150" Value="339087786000"
+                                IdFinPok="5"/>
+                        <String Form="Баланс" Section="Актив" Name="Доходные вложения в материальные ценности"
+                                Code="1160" Value="1700154000" IdFinPok="9"/>
+                        <String Form="Баланс" Section="Актив" Name="Долгосрочные финансовые вложения" Code="1170"
+                                Value="142762150000" IdFinPok="12"/>
+                        <String Form="Баланс" Section="Актив" Name="Прочие внеоборотные активы" Code="1190"
+                                Value="33421189000" IdFinPok="18"/>
+                        <String Form="Баланс" Section="Актив" Name="Внеоборотные активы" Code="1100"
+                                Value="519927063000" IdFinPok="19"/>
+                        <String Form="Баланс" Section="Актив" Name="Запасы" Code="1210" Value="7131701000"
+                                IdFinPok="20"/>
+                        <String Form="Баланс" Section="Актив" Name="НДС по приобретенным ценностям" Code="1220"
+                                Value="2159335000" IdFinPok="28"/>
+                        <String Form="Баланс" Section="Актив" Name="Дебиторская задолженность" Code="1230"
+                                Value="57659044000" IdFinPok="157"/>
+                        <String Form="Баланс" Section="Актив" Name="Краткосрочные финансовые вложения" Code="1240"
+                                Value="3514946000" IdFinPok="42"/>
+                        <String Form="Баланс" Section="Актив" Name="Денежные средства и денежные эквиваленты"
+                                Code="1250" Value="11328718000" IdFinPok="46"/>
+                        <String Form="Баланс" Section="Актив" Name="Прочие оборотные активы" Code="1260"
+                                Value="964649000" IdFinPok="51"/>
+                        <String Form="Баланс" Section="Актив" Name="Оборотные активы" Code="1200" Value="82758393000"
+                                IdFinPok="52"/>
+                        <String Form="Баланс" Section="Актив" Name="Активы  всего" Code="1600" Value="602685456000"
+                                IdFinPok="53"/>
+                        <String Form="Баланс" Section="Пассив" Name="Уставный капитал" Code="1310" Value="6961000"
+                                IdFinPok="54"/>
+                        <String Form="Баланс" Section="Пассив" Name="Добавочный капитал" Code="1350"
+                                Value="134886253000" IdFinPok="55"/>
+                        <String Form="Баланс" Section="Пассив" Name="Резервный капитал" Code="1360" Value="1044000"
+                                IdFinPok="56"/>
+                        <String Form="Баланс" Section="Пассив" Name="Нераспределенная прибыль (непокрытый убыток)"
+                                Code="1370" Value="109857719000" IdFinPok="64"/>
+                        <String Form="Баланс" Section="Пассив" Name="Капитал и резервы" Code="1300" Value="247451585000"
+                                IdFinPok="66"/>
+                        <String Form="Баланс" Section="Пассив" Name="Заёмные средства (долгосрочные)" Code="1410"
+                                Value="173991884000" IdFinPok="67"/>
+                        <String Form="Баланс" Section="Пассив" Name="Отложенные налоговые обязательства" Code="1420"
+                                Value="32102634000" IdFinPok="99"/>
+                        <String Form="Баланс" Section="Пассив" Name="Прочие долгосрочные обязательства" Code="1450"
+                                Value="5312832000" IdFinPok="70"/>
+                        <String Form="Баланс" Section="Пассив" Name="Долгосрочные обязательства" Code="1400"
+                                Value="211407350000" IdFinPok="71"/>
+                        <String Form="Баланс" Section="Пассив" Name="Заёмные средства (краткосрочные)" Code="1510"
+                                Value="42367211000" IdFinPok="72"/>
+                        <String Form="Баланс" Section="Пассив" Name="Кредиторская задолженность" Code="1520"
+                                Value="80846609000" IdFinPok="75"/>
+                        <String Form="Баланс" Section="Пассив" Name="Доходы будущих периодов" Code="1530"
+                                Value="4345373000" IdFinPok="85"/>
+                        <String Form="Баланс" Section="Пассив" Name="Краткосрочные обязательства" Code="1500"
+                                Value="143826521000" IdFinPok="89"/>
+                        <String Form="Баланс" Section="Пассив" Name="Пассивы всего" Code="1700" Value="602685456000"
+                                IdFinPok="90"/>
+                        <String Form="Отчет о финансовых результатах"
+                                Section="Доходы и расходы по обычным видам деятельности" Name="Выручка" Code="2110"
+                                Value="305939185000" IdFinPok="91"/>
+                        <String Form="Отчет о финансовых результатах"
+                                Section="Доходы и расходы по обычным видам деятельности" Name="Себестоимость продаж"
+                                Code="2120" Value="281897666000" IdFinPok="101"/>
+                        <String Form="Отчет о финансовых результатах"
+                                Section="Доходы и расходы по обычным видам деятельности" Name="Валовая прибыль (убыток)"
+                                Code="2100" Value="24041519000" IdFinPok="110"/>
+                        <String Form="Отчет о финансовых результатах"
+                                Section="Доходы и расходы по обычным видам деятельности"
+                                Name="Прибыль (убыток) от продажи" Code="2200" Value="24041519000" IdFinPok="113"/>
+                        <String Form="Отчет о финансовых результатах" Section="Операционные доходы и расходы"
+                                Name="Доходы от участия в других организациях" Code="2310" Value="964186000"
+                                IdFinPok="116"/>
+                        <String Form="Отчет о финансовых результатах" Section="Операционные доходы и расходы"
+                                Name="Проценты к получению" Code="2320" Value="2566513000" IdFinPok="114"/>
+                        <String Form="Отчет о финансовых результатах" Section="Операционные доходы и расходы"
+                                Name="Проценты к уплате" Code="2330" Value="15189564000" IdFinPok="115"/>
+                        <String Form="Отчет о финансовых результатах" Section="Операционные доходы и расходы"
+                                Name="Прочие доходы" Code="2340" Value="21169694000" IdFinPok="117"/>
+                        <String Form="Отчет о финансовых результатах" Section="Операционные доходы и расходы"
+                                Name="Прочие расходы" Code="2350" Value="26036480000" IdFinPok="92"/>
+                        <String Form="Отчет о финансовых результатах" Section="Операционные доходы и расходы"
+                                Name="Прибыль (убыток) до налогообложения" Code="2300" Value="7515868000"
+                                IdFinPok="95"/>
+                        <String Form="Отчет о финансовых результатах" Section="Операционные доходы и расходы"
+                                Name="Текущий налог на прибыль" Code="2410" Value="3193548000" IdFinPok="96"/>
+                        <String Form="Отчет о финансовых результатах" Section="Операционные доходы и расходы"
+                                Name="Чистая прибыль (убыток)" Code="2400" Value="5381373000" IdFinPok="100"/>
+                    </StringList>
+                </FinPeriod>
+                <FinPeriod PeriodName="2019" DateBegin="2019-01-01" DateEnd="2019-12-31">
+                    <StringList>
+                        <String Form="Баланс" Section="Актив" Name="Нематериальные активы" Code="1110"
+                                Value="2723986000" IdFinPok="1"/>
+                        <String Form="Баланс" Section="Актив" Name="Основные средства" Code="1150" Value="362936140000"
+                                IdFinPok="5"/>
+                        <String Form="Баланс" Section="Актив" Name="Доходные вложения в материальные ценности"
+                                Code="1160" Value="1448117000" IdFinPok="9"/>
+                        <String Form="Баланс" Section="Актив" Name="Долгосрочные финансовые вложения" Code="1170"
+                                Value="143082758000" IdFinPok="12"/>
+                        <String Form="Баланс" Section="Актив" Name="Прочие внеоборотные активы" Code="1190"
+                                Value="44570932000" IdFinPok="18"/>
+                        <String Form="Баланс" Section="Актив" Name="Внеоборотные активы" Code="1100"
+                                Value="554920613000" IdFinPok="19"/>
+                        <String Form="Баланс" Section="Актив" Name="Запасы" Code="1210" Value="7826546000"
+                                IdFinPok="20"/>
+                        <String Form="Баланс" Section="Актив" Name="НДС по приобретенным ценностям" Code="1220"
+                                Value="4274139000" IdFinPok="28"/>
+                        <String Form="Баланс" Section="Актив" Name="Дебиторская задолженность" Code="1230"
+                                Value="51632768000" IdFinPok="157"/>
+                        <String Form="Баланс" Section="Актив" Name="Краткосрочные финансовые вложения" Code="1240"
+                                Value="21777798000" IdFinPok="42"/>
+                        <String Form="Баланс" Section="Актив" Name="Денежные средства и денежные эквиваленты"
+                                Code="1250" Value="21067465000" IdFinPok="46"/>
+                        <String Form="Баланс" Section="Актив" Name="Прочие оборотные активы" Code="1260"
+                                Value="1549482000" IdFinPok="51"/>
+                        <String Form="Баланс" Section="Актив" Name="Оборотные активы" Code="1200" Value="108128198000"
+                                IdFinPok="52"/>
+                        <String Form="Баланс" Section="Актив" Name="Активы  всего" Code="1600" Value="663048811000"
+                                IdFinPok="53"/>
+                        <String Form="Баланс" Section="Пассив" Name="Уставный капитал" Code="1310" Value="6961000"
+                                IdFinPok="54"/>
+                        <String Form="Баланс" Section="Пассив" Name="Добавочный капитал" Code="1350"
+                                Value="136414253000" IdFinPok="55"/>
+                        <String Form="Баланс" Section="Пассив" Name="Резервный капитал" Code="1360" Value="1044000"
+                                IdFinPok="56"/>
+                        <String Form="Баланс" Section="Пассив" Name="Нераспределенная прибыль (непокрытый убыток)"
+                                Code="1370" Value="99794387000" IdFinPok="64"/>
+                        <String Form="Баланс" Section="Пассив" Name="Капитал и резервы" Code="1300" Value="238758704000"
+                                IdFinPok="66"/>
+                        <String Form="Баланс" Section="Пассив" Name="Заёмные средства (долгосрочные)" Code="1410"
+                                Value="220558832000" IdFinPok="67"/>
+                        <String Form="Баланс" Section="Пассив" Name="Отложенные налоговые обязательства" Code="1420"
+                                Value="31349722000" IdFinPok="99"/>
+                        <String Form="Баланс" Section="Пассив" Name="Прочие долгосрочные обязательства" Code="1450"
+                                Value="7791907000" IdFinPok="70"/>
+                        <String Form="Баланс" Section="Пассив" Name="Долгосрочные обязательства" Code="1400"
+                                Value="259700461000" IdFinPok="71"/>
+                        <String Form="Баланс" Section="Пассив" Name="Заёмные средства (краткосрочные)" Code="1510"
+                                Value="42539290000" IdFinPok="72"/>
+                        <String Form="Баланс" Section="Пассив" Name="Кредиторская задолженность" Code="1520"
+                                Value="82067118000" IdFinPok="75"/>
+                        <String Form="Баланс" Section="Пассив" Name="Доходы будущих периодов" Code="1530"
+                                Value="16724794000" IdFinPok="85"/>
+                        <String Form="Баланс" Section="Пассив" Name="Краткосрочные обязательства" Code="1500"
+                                Value="164589646000" IdFinPok="89"/>
+                        <String Form="Баланс" Section="Пассив" Name="Пассивы всего" Code="1700" Value="663048811000"
+                                IdFinPok="90"/>
+                        <String Form="Отчет о финансовых результатах"
+                                Section="Доходы и расходы по обычным видам деятельности" Name="Выручка" Code="2110"
+                                Value="319725684000" IdFinPok="91"/>
+                        <String Form="Отчет о финансовых результатах"
+                                Section="Доходы и расходы по обычным видам деятельности" Name="Себестоимость продаж"
+                                Code="2120" Value="302016888000" IdFinPok="101"/>
+                        <String Form="Отчет о финансовых результатах"
+                                Section="Доходы и расходы по обычным видам деятельности" Name="Валовая прибыль (убыток)"
+                                Code="2100" Value="17708796000" IdFinPok="110"/>
+                        <String Form="Отчет о финансовых результатах"
+                                Section="Доходы и расходы по обычным видам деятельности"
+                                Name="Прибыль (убыток) от продажи" Code="2200" Value="17708796000" IdFinPok="113"/>
+                        <String Form="Отчет о финансовых результатах" Section="Операционные доходы и расходы"
+                                Name="Доходы от участия в других организациях" Code="2310" Value="2257884000"
+                                IdFinPok="116"/>
+                        <String Form="Отчет о финансовых результатах" Section="Операционные доходы и расходы"
+                                Name="Проценты к получению" Code="2320" Value="2921764000" IdFinPok="114"/>
+                        <String Form="Отчет о финансовых результатах" Section="Операционные доходы и расходы"
+                                Name="Проценты к уплате" Code="2330" Value="16501746000" IdFinPok="115"/>
+                        <String Form="Отчет о финансовых результатах" Section="Операционные доходы и расходы"
+                                Name="Прочие доходы" Code="2340" Value="27604272000" IdFinPok="117"/>
+                        <String Form="Отчет о финансовых результатах" Section="Операционные доходы и расходы"
+                                Name="Прочие расходы" Code="2350" Value="37346900000" IdFinPok="92"/>
+                        <String Form="Отчет о финансовых результатах" Section="Операционные доходы и расходы"
+                                Name="Прибыль (убыток) до налогообложения" Code="2300" Value="-3355930000"
+                                IdFinPok="95"/>
+                        <String Form="Отчет о финансовых результатах" Section="Операционные доходы и расходы"
+                                Name="Текущий налог на прибыль" Code="2410" Value="3827692000" IdFinPok="96"/>
+                        <String Form="Отчет о финансовых результатах" Section="Операционные доходы и расходы"
+                                Name="Чистая прибыль (убыток)" Code="2400" Value="-3362969000" IdFinPok="100"/>
+                    </StringList>
+                </FinPeriod>
+                <FinPeriod PeriodName="2020 - II кв." DateBegin="2020-01-01" DateEnd="2020-06-30">
+                    <StringList>
+                        <String Form="Баланс" Section="Актив" Name="Нематериальные активы" Code="1110"
+                                Value="2573381000" IdFinPok="1"/>
+                        <String Form="Баланс" Section="Актив" Name="Основные средства" Code="1150" Value="370735566000"
+                                IdFinPok="5"/>
+                        <String Form="Баланс" Section="Актив" Name="Доходные вложения в материальные ценности"
+                                Code="1160" Value="1073184000" IdFinPok="9"/>
+                        <String Form="Баланс" Section="Актив" Name="Долгосрочные финансовые вложения" Code="1170"
+                                Value="258789388000" IdFinPok="12"/>
+                        <String Form="Баланс" Section="Актив" Name="Прочие внеоборотные активы" Code="1190"
+                                Value="49025970000" IdFinPok="18"/>
+                        <String Form="Баланс" Section="Актив" Name="Внеоборотные активы" Code="1100"
+                                Value="682311930000" IdFinPok="19"/>
+                        <String Form="Баланс" Section="Актив" Name="Запасы" Code="1210" Value="8135469000"
+                                IdFinPok="20"/>
+                        <String Form="Баланс" Section="Актив" Name="НДС по приобретенным ценностям" Code="1220"
+                                Value="5574068000" IdFinPok="28"/>
+                        <String Form="Баланс" Section="Актив" Name="Дебиторская задолженность" Code="1230"
+                                Value="69764965000" IdFinPok="157"/>
+                        <String Form="Баланс" Section="Актив" Name="Краткосрочные финансовые вложения" Code="1240"
+                                Value="24890128000" IdFinPok="42"/>
+                        <String Form="Баланс" Section="Актив" Name="Денежные средства и денежные эквиваленты"
+                                Code="1250" Value="25734485000" IdFinPok="46"/>
+                        <String Form="Баланс" Section="Актив" Name="Прочие оборотные активы" Code="1260"
+                                Value="1599688000" IdFinPok="51"/>
+                        <String Form="Баланс" Section="Актив" Name="Оборотные активы" Code="1200" Value="135698803000"
+                                IdFinPok="52"/>
+                        <String Form="Баланс" Section="Актив" Name="Активы  всего" Code="1600" Value="818010733000"
+                                IdFinPok="53"/>
+                        <String Form="Баланс" Section="Пассив" Name="Уставный капитал" Code="1310" Value="8731000"
+                                IdFinPok="54"/>
+                        <String Form="Баланс" Section="Пассив" Name="Добавочный капитал" Code="1350"
+                                Value="202412897000" IdFinPok="55"/>
+                        <String Form="Баланс" Section="Пассив" Name="Резервный капитал" Code="1360" Value="1044000"
+                                IdFinPok="56"/>
+                        <String Form="Баланс" Section="Пассив" Name="Нераспределенная прибыль (непокрытый убыток)"
+                                Code="1370" Value="104290515000" IdFinPok="64"/>
+                        <String Form="Баланс" Section="Пассив" Name="Капитал и резервы" Code="1300" Value="309207750000"
+                                IdFinPok="66"/>
+                        <String Form="Баланс" Section="Пассив" Name="Заёмные средства (долгосрочные)" Code="1410"
+                                Value="292665714000" IdFinPok="67"/>
+                        <String Form="Баланс" Section="Пассив" Name="Отложенные налоговые обязательства" Code="1420"
+                                Value="33093383000" IdFinPok="99"/>
+                        <String Form="Баланс" Section="Пассив" Name="Прочие долгосрочные обязательства" Code="1450"
+                                Value="14187635000" IdFinPok="70"/>
+                        <String Form="Баланс" Section="Пассив" Name="Долгосрочные обязательства" Code="1400"
+                                Value="358912124000" IdFinPok="71"/>
+                        <String Form="Баланс" Section="Пассив" Name="Заёмные средства (краткосрочные)" Code="1510"
+                                Value="60499166000" IdFinPok="72"/>
+                        <String Form="Баланс" Section="Пассив" Name="Кредиторская задолженность" Code="1520"
+                                Value="70590429000" IdFinPok="75"/>
+                        <String Form="Баланс" Section="Пассив" Name="Доходы будущих периодов" Code="1530"
+                                Value="110599000" IdFinPok="85"/>
+                        <String Form="Баланс" Section="Пассив" Name="Краткосрочные обязательства" Code="1500"
+                                Value="149890859000" IdFinPok="89"/>
+                        <String Form="Баланс" Section="Пассив" Name="Пассивы всего" Code="1700" Value="818010733000"
+                                IdFinPok="90"/>
+                        <String Form="Отчет о финансовых результатах"
+                                Section="Доходы и расходы по обычным видам деятельности" Name="Выручка" Code="2110"
+                                Value="155368868000" IdFinPok="91"/>
+                        <String Form="Отчет о финансовых результатах"
+                                Section="Доходы и расходы по обычным видам деятельности" Name="Себестоимость продаж"
+                                Code="2120" Value="147979606000" IdFinPok="101"/>
+                        <String Form="Отчет о финансовых результатах"
+                                Section="Доходы и расходы по обычным видам деятельности" Name="Валовая прибыль (убыток)"
+                                Code="2100" Value="7389262000" IdFinPok="110"/>
+                        <String Form="Отчет о финансовых результатах"
+                                Section="Доходы и расходы по обычным видам деятельности"
+                                Name="Прибыль (убыток) от продажи" Code="2200" Value="7389262000" IdFinPok="113"/>
+                        <String Form="Отчет о финансовых результатах" Section="Операционные доходы и расходы"
+                                Name="Доходы от участия в других организациях" Code="2310" Value="102725000"
+                                IdFinPok="116"/>
+                        <String Form="Отчет о финансовых результатах" Section="Операционные доходы и расходы"
+                                Name="Проценты к получению" Code="2320" Value="2383905000" IdFinPok="114"/>
+                        <String Form="Отчет о финансовых результатах" Section="Операционные доходы и расходы"
+                                Name="Проценты к уплате" Code="2330" Value="9900552000" IdFinPok="115"/>
+                        <String Form="Отчет о финансовых результатах" Section="Операционные доходы и расходы"
+                                Name="Прочие доходы" Code="2340" Value="13877579000" IdFinPok="117"/>
+                        <String Form="Отчет о финансовых результатах" Section="Операционные доходы и расходы"
+                                Name="Прочие расходы" Code="2350" Value="8602616000" IdFinPok="92"/>
+                        <String Form="Отчет о финансовых результатах" Section="Операционные доходы и расходы"
+                                Name="Прибыль (убыток) до налогообложения" Code="2300" Value="5250303000"
+                                IdFinPok="95"/>
+                        <String Form="Отчет о финансовых результатах" Section="Операционные доходы и расходы"
+                                Name="Текущий налог на прибыль" Code="2410" Value="3334208000" IdFinPok="96"/>
+                        <String Form="Отчет о финансовых результатах" Section="Операционные доходы и расходы"
+                                Name="Чистая прибыль (убыток)" Code="2400" Value="4342716000" IdFinPok="100"/>
+                    </StringList>
+                </FinPeriod>
+            </Finance>
+            <CompanyWithSameInfo>
+                <TelephoneCount PhoneCode="38158" PhoneNumber="22474">20</TelephoneCount>
+                <PhoneList>
+                    <PhoneCount Code="38158" Number="22474">20</PhoneCount>
+                    <PhoneCount Code="3022" Number="283356">9</PhoneCount>
+                    <PhoneCount Code="878" Number="2254778">8</PhoneCount>
+                    <PhoneCount Code="38175" Number="21651">7</PhoneCount>
+                    <PhoneCount Code="390" Number="2222950">7</PhoneCount>
+                    <PhoneCount Code="800" Number="2002020">7</PhoneCount>
+                    <PhoneCount Code="877" Number="2525232">7</PhoneCount>
+                    <PhoneCount Code="388" Number="2224517">6</PhoneCount>
+                    <PhoneCount Code="47354" Number="74542">6</PhoneCount>
+                    <PhoneCount Code="800" Number="2001070">5</PhoneCount>
+                    <PhoneCount Code="800" Number="2002222">5</PhoneCount>
+                    <PhoneCount Code="800" Number="2006000">5</PhoneCount>
+                    <PhoneCount Code="800" Number="2009000">5</PhoneCount>
+                    <PhoneCount Code="812" Number="7199744">5</PhoneCount>
+                    <PhoneCount Code="878" Number="2266092">5</PhoneCount>
+                    <PhoneCount Code="30242" Number="44742">4</PhoneCount>
+                    <PhoneCount Code="388" Number="2245665">4</PhoneCount>
+                    <PhoneCount Code="47354" Number="60436">4</PhoneCount>
+                    <PhoneCount Code="800" Number="2003033">4</PhoneCount>
+                    <PhoneCount Code="812" Number="2510101">4</PhoneCount>
+                    <PhoneCount Code="812" Number="7199227">4</PhoneCount>
+                    <PhoneCount Code="81361" Number="65272">4</PhoneCount>
+                    <PhoneCount Code="878" Number="2262424">4</PhoneCount>
+                    <PhoneCount Code="302" Number="2350408">3</PhoneCount>
+                    <PhoneCount Code="30246" Number="21531">3</PhoneCount>
+                    <PhoneCount Code="352" Number="2640111">3</PhoneCount>
+                    <PhoneCount Code="381" Number="2334188">3</PhoneCount>
+                    <PhoneCount Code="38169" Number="21374">3</PhoneCount>
+                    <PhoneCount Code="388" Number="2244520">3</PhoneCount>
+                    <PhoneCount Code="390" Number="2227385">3</PhoneCount>
+                    <PhoneCount Code="499" Number="9728236">3</PhoneCount>
+                    <PhoneCount Code="800" Number="1002020">3</PhoneCount>
+                    <PhoneCount Code="800" Number="2003022">3</PhoneCount>
+                    <PhoneCount Code="800" Number="2003040">3</PhoneCount>
+                    <PhoneCount Code="800" Number="2006607">3</PhoneCount>
+                    <PhoneCount Code="800" Number="2008000">3</PhoneCount>
+                    <PhoneCount Code="800" Number="2203000">3</PhoneCount>
+                    <PhoneCount Code="800" Number="2223000">3</PhoneCount>
+                    <PhoneCount Code="800" Number="5558519">3</PhoneCount>
+                    <PhoneCount Code="811" Number="5337363">3</PhoneCount>
+                    <PhoneCount Code="812" Number="7199222">3</PhoneCount>
+                    <PhoneCount Code="834" Number="2291210">3</PhoneCount>
+                    <PhoneCount Code="877" Number="2576777">3</PhoneCount>
+                    <PhoneCount Code="302" Number="2320000">2</PhoneCount>
+                    <PhoneCount Code="302" Number="3853555">2</PhoneCount>
+                    <PhoneCount Code="3022" Number="211140">2</PhoneCount>
+                    <PhoneCount Code="3022" Number="282004">2</PhoneCount>
+                    <PhoneCount Code="3022" Number="325095">2</PhoneCount>
+                    <PhoneCount Code="3022" Number="351006">2</PhoneCount>
+                    <PhoneCount Code="3022" Number="353530">2</PhoneCount>
+                    <PhoneCount Code="3022" Number="382459">2</PhoneCount>
+                    <PhoneCount Code="30236" Number="42386">2</PhoneCount>
+                    <PhoneCount Code="30239" Number="34947">2</PhoneCount>
+                    <PhoneCount Code="30244" Number="21138">2</PhoneCount>
+                    <PhoneCount Code="30244" Number="32417">2</PhoneCount>
+                    <PhoneCount Code="30244" Number="34135">2</PhoneCount>
+                    <PhoneCount Code="347" Number="2315648">2</PhoneCount>
+                    <PhoneCount Code="3472" Number="215446">2</PhoneCount>
+                    <PhoneCount Code="3472" Number="258135">2</PhoneCount>
+                    <PhoneCount Code="3472" Number="736963">2</PhoneCount>
+                    <PhoneCount Code="34743" Number="21200">2</PhoneCount>
+                    <PhoneCount Code="34767" Number="22626">2</PhoneCount>
+                    <PhoneCount Code="352" Number="2419201">2</PhoneCount>
+                    <PhoneCount Code="3522" Number="439050">2</PhoneCount>
+                    <PhoneCount Code="35251" Number="21388">2</PhoneCount>
+                    <PhoneCount Code="381" Number="2200168">2</PhoneCount>
+                    <PhoneCount Code="381" Number="2200253">2</PhoneCount>
+                    <PhoneCount Code="381" Number="2232790">2</PhoneCount>
+                    <PhoneCount Code="381" Number="2233240">2</PhoneCount>
+                    <PhoneCount Code="381" Number="2244188">2</PhoneCount>
+                    <PhoneCount Code="381" Number="2254562">2</PhoneCount>
+                    <PhoneCount Code="381" Number="2323212">2</PhoneCount>
+                    <PhoneCount Code="381" Number="2334040">2</PhoneCount>
+                    <PhoneCount Code="381" Number="2334063">2</PhoneCount>
+                    <PhoneCount Code="381" Number="2334629">2</PhoneCount>
+                    <PhoneCount Code="381" Number="2485678">2</PhoneCount>
+                    <PhoneCount Code="381" Number="2971595">2</PhoneCount>
+                    <PhoneCount Code="38155" Number="21166">2</PhoneCount>
+                    <PhoneCount Code="38166" Number="21854">2</PhoneCount>
+                    <PhoneCount Code="38167" Number="21456">2</PhoneCount>
+                    <PhoneCount Code="388" Number="2227571">2</PhoneCount>
+                    <PhoneCount Code="388" Number="2242345">2</PhoneCount>
+                    <PhoneCount Code="388" Number="2246556">2</PhoneCount>
+                    <PhoneCount Code="388" Number="2264391">2</PhoneCount>
+                    <PhoneCount Code="390" Number="2221166">2</PhoneCount>
+                    <PhoneCount Code="390" Number="2249380">2</PhoneCount>
+                    <PhoneCount Code="426" Number="2240802">2</PhoneCount>
+                    <PhoneCount Code="426" Number="2262551">2</PhoneCount>
+                    <PhoneCount Code="47354" Number="64410">2</PhoneCount>
+                    <PhoneCount Code="494" Number="2621062">2</PhoneCount>
+                    <PhoneCount Code="49435" Number="44860">2</PhoneCount>
+                    <PhoneCount Code="49435" Number="47929">2</PhoneCount>
+                    <PhoneCount Code="49435" Number="48041">2</PhoneCount>
+                    <PhoneCount Code="495" Number="1113322">2</PhoneCount>
+                    <PhoneCount Code="495" Number="5522984">2</PhoneCount>
+                    <PhoneCount Code="495" Number="5526867">2</PhoneCount>
+                    <PhoneCount Code="495" Number="5544125">2</PhoneCount>
+                    <PhoneCount Code="495" Number="9759802">2</PhoneCount>
+                    <PhoneCount Code="496" Number="2126233">2</PhoneCount>
+                    <PhoneCount Code="49641" Number="61444">2</PhoneCount>
+                    <PhoneCount Code="49661" Number="72437">2</PhoneCount>
+                    <PhoneCount Code="49664" Number="92883">2</PhoneCount>
+                    <PhoneCount Code="49672" Number="32012">2</PhoneCount>
+                    <PhoneCount Code="499" Number="9728983">2</PhoneCount>
+                    <PhoneCount Code="800" Number="1000700">2</PhoneCount>
+                    <PhoneCount Code="800" Number="1000810">2</PhoneCount>
+                    <PhoneCount Code="800" Number="1000909">2</PhoneCount>
+                    <PhoneCount Code="800" Number="1004312">2</PhoneCount>
+                    <PhoneCount Code="800" Number="1008008">2</PhoneCount>
+                    <PhoneCount Code="800" Number="1008108">2</PhoneCount>
+                    <PhoneCount Code="800" Number="1008800">2</PhoneCount>
+                    <PhoneCount Code="800" Number="2000003">2</PhoneCount>
+                    <PhoneCount Code="800" Number="2002000">2</PhoneCount>
+                    <PhoneCount Code="800" Number="2003011">2</PhoneCount>
+                    <PhoneCount Code="800" Number="3000500">2</PhoneCount>
+                    <PhoneCount Code="800" Number="3000800">2</PhoneCount>
+                    <PhoneCount Code="800" Number="3001803">2</PhoneCount>
+                    <PhoneCount Code="800" Number="3014080">2</PhoneCount>
+                    <PhoneCount Code="800" Number="4502000">2</PhoneCount>
+                    <PhoneCount Code="800" Number="5005766">2</PhoneCount>
+                    <PhoneCount Code="800" Number="7007000">2</PhoneCount>
+                    <PhoneCount Code="800" Number="7008747">2</PhoneCount>
+                    <PhoneCount Code="800" Number="7071212">2</PhoneCount>
+                    <PhoneCount Code="800" Number="7076607">2</PhoneCount>
+                    <PhoneCount Code="800" Number="7753594">2</PhoneCount>
+                    <PhoneCount Code="8112" Number="567897">2</PhoneCount>
+                    <PhoneCount Code="81140" Number="22191">2</PhoneCount>
+                    <PhoneCount Code="81141" Number="22734">2</PhoneCount>
+                    <PhoneCount Code="81149" Number="21932">2</PhoneCount>
+                    <PhoneCount Code="81153" Number="23541">2</PhoneCount>
+                    <PhoneCount Code="81153" Number="24475">2</PhoneCount>
+                    <PhoneCount Code="81153" Number="37617">2</PhoneCount>
+                    <PhoneCount Code="81153" Number="51789">2</PhoneCount>
+                    <PhoneCount Code="812" Number="2730072">2</PhoneCount>
+                    <PhoneCount Code="812" Number="4018185">2</PhoneCount>
+                    <PhoneCount Code="812" Number="7106277">2</PhoneCount>
+                    <PhoneCount Code="812" Number="7195856">2</PhoneCount>
+                    <PhoneCount Code="812" Number="7199224">2</PhoneCount>
+                    <PhoneCount Code="812" Number="7649388">2</PhoneCount>
+                    <PhoneCount Code="81365" Number="22325">2</PhoneCount>
+                    <PhoneCount Code="81370" Number="60492">2</PhoneCount>
+                    <PhoneCount Code="81373" Number="21106">2</PhoneCount>
+                    <PhoneCount Code="81378" Number="21720">2</PhoneCount>
+                    <PhoneCount Code="81378" Number="30566">2</PhoneCount>
+                    <PhoneCount Code="877" Number="2555242">2</PhoneCount>
+                    <PhoneCount Code="911" Number="1700522">2</PhoneCount>
+                    <PhoneCount Code="911" Number="1775378">2</PhoneCount>
+                    <PhoneCount Code="926" Number="0925800">2</PhoneCount>
+                </PhoneList>
+                <AddressCount>2</AddressCount>
+                <AddressWithoutRoomCount>2</AddressWithoutRoomCount>
+                <AddressNotAffiliatedCount>1</AddressNotAffiliatedCount>
+                <AddressFTSCount>1</AddressFTSCount>
+                <ManagerCountInCountry>1</ManagerCountInCountry>
+                <ManagerCountInRegion>1</ManagerCountInRegion>
+                <ManagerInnCount>1</ManagerInnCount>
+            </CompanyWithSameInfo>
+            <CompanyLiquidatedWithSameInfo>
+                <AddressCount>11</AddressCount>
+                <AddressWithoutRoomCount>11</AddressWithoutRoomCount>
+            </CompanyLiquidatedWithSameInfo>
+            <EventsList>
+                <Event>
+                    <EventTypeId>31</EventTypeId>
+                    <EventTypeDescription>Арбитражное дело</EventTypeDescription>
+                    <EventDate>2020-10-11T00:00:00</EventDate>
+                </Event>
+                <Event>
+                    <EventTypeId>31</EventTypeId>
+                    <EventTypeDescription>Арбитражное дело</EventTypeDescription>
+                    <EventDate>2020-10-11T00:00:00</EventDate>
+                </Event>
+                <Event>
+                    <EventTypeId>31</EventTypeId>
+                    <EventTypeDescription>Арбитражное дело</EventTypeDescription>
+                    <EventDate>2020-10-11T00:00:00</EventDate>
+                </Event>
+                <Event>
+                    <EventTypeId>31</EventTypeId>
+                    <EventTypeDescription>Арбитражное дело</EventTypeDescription>
+                    <EventDate>2020-10-11T00:00:00</EventDate>
+                </Event>
+                <Event>
+                    <EventTypeId>31</EventTypeId>
+                    <EventTypeDescription>Арбитражное дело</EventTypeDescription>
+                    <EventDate>2020-10-11T00:00:00</EventDate>
+                </Event>
+                <Event>
+                    <EventTypeId>31</EventTypeId>
+                    <EventTypeDescription>Арбитражное дело</EventTypeDescription>
+                    <EventDate>2020-10-11T00:00:00</EventDate>
+                </Event>
+                <Event>
+                    <EventTypeId>31</EventTypeId>
+                    <EventTypeDescription>Арбитражное дело</EventTypeDescription>
+                    <EventDate>2020-10-11T00:00:00</EventDate>
+                </Event>
+                <Event>
+                    <EventTypeId>31</EventTypeId>
+                    <EventTypeDescription>Арбитражное дело</EventTypeDescription>
+                    <EventDate>2020-10-11T00:00:00</EventDate>
+                </Event>
+                <Event>
+                    <EventTypeId>31</EventTypeId>
+                    <EventTypeDescription>Арбитражное дело</EventTypeDescription>
+                    <EventDate>2020-10-11T00:00:00</EventDate>
+                </Event>
+                <Event>
+                    <EventTypeId>31</EventTypeId>
+                    <EventTypeDescription>Арбитражное дело</EventTypeDescription>
+                    <EventDate>2020-10-11T00:00:00</EventDate>
+                </Event>
+                <Event>
+                    <EventTypeId>31</EventTypeId>
+                    <EventTypeDescription>Арбитражное дело</EventTypeDescription>
+                    <EventDate>2020-10-10T00:00:00</EventDate>
+                </Event>
+                <Event>
+                    <EventTypeId>31</EventTypeId>
+                    <EventTypeDescription>Арбитражное дело</EventTypeDescription>
+                    <EventDate>2020-10-10T00:00:00</EventDate>
+                </Event>
+                <Event>
+                    <EventTypeId>31</EventTypeId>
+                    <EventTypeDescription>Арбитражное дело</EventTypeDescription>
+                    <EventDate>2020-10-10T00:00:00</EventDate>
+                </Event>
+                <Event>
+                    <EventTypeId>31</EventTypeId>
+                    <EventTypeDescription>Арбитражное дело</EventTypeDescription>
+                    <EventDate>2020-10-11T00:00:00</EventDate>
+                </Event>
+                <Event>
+                    <EventTypeId>31</EventTypeId>
+                    <EventTypeDescription>Арбитражное дело</EventTypeDescription>
+                    <EventDate>2020-10-10T00:00:00</EventDate>
+                </Event>
+                <Event>
+                    <EventTypeId>31</EventTypeId>
+                    <EventTypeDescription>Арбитражное дело</EventTypeDescription>
+                    <EventDate>2020-10-10T00:00:00</EventDate>
+                </Event>
+                <Event>
+                    <EventTypeId>31</EventTypeId>
+                    <EventTypeDescription>Арбитражное дело</EventTypeDescription>
+                    <EventDate>2020-10-11T00:00:00</EventDate>
+                </Event>
+                <Event>
+                    <EventTypeId>31</EventTypeId>
+                    <EventTypeDescription>Арбитражное дело</EventTypeDescription>
+                    <EventDate>2020-10-10T00:00:00</EventDate>
+                </Event>
+                <Event>
+                    <EventTypeId>31</EventTypeId>
+                    <EventTypeDescription>Арбитражное дело</EventTypeDescription>
+                    <EventDate>2020-10-10T00:00:00</EventDate>
+                </Event>
+                <Event>
+                    <EventTypeId>28</EventTypeId>
+                    <EventTypeDescription>Исполнительное производство</EventTypeDescription>
+                    <EventDate>2020-10-10T00:00:00</EventDate>
+                </Event>
+                <Event>
+                    <EventTypeId>28</EventTypeId>
+                    <EventTypeDescription>Исполнительное производство</EventTypeDescription>
+                    <EventDate>2020-10-10T00:00:00</EventDate>
+                </Event>
+                <Event>
+                    <EventTypeId>28</EventTypeId>
+                    <EventTypeDescription>Исполнительное производство</EventTypeDescription>
+                    <EventDate>2020-10-10T00:00:00</EventDate>
+                </Event>
+                <Event>
+                    <EventTypeId>28</EventTypeId>
+                    <EventTypeDescription>Исполнительное производство</EventTypeDescription>
+                    <EventDate>2020-10-10T00:00:00</EventDate>
+                </Event>
+                <Event>
+                    <EventTypeId>31</EventTypeId>
+                    <EventTypeDescription>Арбитражное дело</EventTypeDescription>
+                    <EventDate>2020-10-10T00:00:00</EventDate>
+                </Event>
+                <Event>
+                    <EventTypeId>31</EventTypeId>
+                    <EventTypeDescription>Арбитражное дело</EventTypeDescription>
+                    <EventDate>2020-10-10T00:00:00</EventDate>
+                </Event>
+                <Event>
+                    <EventTypeId>31</EventTypeId>
+                    <EventTypeDescription>Арбитражное дело</EventTypeDescription>
+                    <EventDate>2020-10-10T00:00:00</EventDate>
+                </Event>
+                <Event>
+                    <EventTypeId>31</EventTypeId>
+                    <EventTypeDescription>Арбитражное дело</EventTypeDescription>
+                    <EventDate>2020-10-10T00:00:00</EventDate>
+                </Event>
+                <Event>
+                    <EventTypeId>31</EventTypeId>
+                    <EventTypeDescription>Арбитражное дело</EventTypeDescription>
+                    <EventDate>2020-10-10T00:00:00</EventDate>
+                </Event>
+                <Event>
+                    <EventTypeId>31</EventTypeId>
+                    <EventTypeDescription>Арбитражное дело</EventTypeDescription>
+                    <EventDate>2020-10-10T00:00:00</EventDate>
+                </Event>
+                <Event>
+                    <EventTypeId>31</EventTypeId>
+                    <EventTypeDescription>Арбитражное дело</EventTypeDescription>
+                    <EventDate>2020-10-10T00:00:00</EventDate>
+                </Event>
+                <Event>
+                    <EventTypeId>31</EventTypeId>
+                    <EventTypeDescription>Арбитражное дело</EventTypeDescription>
+                    <EventDate>2020-10-10T00:00:00</EventDate>
+                </Event>
+                <Event>
+                    <EventTypeId>31</EventTypeId>
+                    <EventTypeDescription>Арбитражное дело</EventTypeDescription>
+                    <EventDate>2020-10-10T00:00:00</EventDate>
+                </Event>
+                <Event>
+                    <EventTypeId>31</EventTypeId>
+                    <EventTypeDescription>Арбитражное дело</EventTypeDescription>
+                    <EventDate>2020-10-10T00:00:00</EventDate>
+                </Event>
+                <Event>
+                    <EventTypeId>31</EventTypeId>
+                    <EventTypeDescription>Арбитражное дело</EventTypeDescription>
+                    <EventDate>2020-10-10T00:00:00</EventDate>
+                </Event>
+                <Event>
+                    <EventTypeId>31</EventTypeId>
+                    <EventTypeDescription>Арбитражное дело</EventTypeDescription>
+                    <EventDate>2020-10-10T00:00:00</EventDate>
+                </Event>
+                <Event>
+                    <EventTypeId>31</EventTypeId>
+                    <EventTypeDescription>Арбитражное дело</EventTypeDescription>
+                    <EventDate>2020-10-10T00:00:00</EventDate>
+                </Event>
+                <Event>
+                    <EventTypeId>31</EventTypeId>
+                    <EventTypeDescription>Арбитражное дело</EventTypeDescription>
+                    <EventDate>2020-10-10T00:00:00</EventDate>
+                </Event>
+                <Event>
+                    <EventTypeId>31</EventTypeId>
+                    <EventTypeDescription>Арбитражное дело</EventTypeDescription>
+                    <EventDate>2020-10-10T00:00:00</EventDate>
+                </Event>
+                <Event>
+                    <EventTypeId>31</EventTypeId>
+                    <EventTypeDescription>Арбитражное дело</EventTypeDescription>
+                    <EventDate>2020-10-10T00:00:00</EventDate>
+                </Event>
+                <Event>
+                    <EventTypeId>31</EventTypeId>
+                    <EventTypeDescription>Арбитражное дело</EventTypeDescription>
+                    <EventDate>2020-10-10T00:00:00</EventDate>
+                </Event>
+                <Event>
+                    <EventTypeId>31</EventTypeId>
+                    <EventTypeDescription>Арбитражное дело</EventTypeDescription>
+                    <EventDate>2020-10-10T00:00:00</EventDate>
+                </Event>
+                <Event>
+                    <EventTypeId>31</EventTypeId>
+                    <EventTypeDescription>Арбитражное дело</EventTypeDescription>
+                    <EventDate>2020-10-10T00:00:00</EventDate>
+                </Event>
+                <Event>
+                    <EventTypeId>31</EventTypeId>
+                    <EventTypeDescription>Арбитражное дело</EventTypeDescription>
+                    <EventDate>2020-10-10T00:00:00</EventDate>
+                </Event>
+                <Event>
+                    <EventTypeId>31</EventTypeId>
+                    <EventTypeDescription>Арбитражное дело</EventTypeDescription>
+                    <EventDate>2020-10-11T00:00:00</EventDate>
+                </Event>
+                <Event>
+                    <EventTypeId>31</EventTypeId>
+                    <EventTypeDescription>Арбитражное дело</EventTypeDescription>
+                    <EventDate>2020-10-11T00:00:00</EventDate>
+                </Event>
+                <Event>
+                    <EventTypeId>31</EventTypeId>
+                    <EventTypeDescription>Арбитражное дело</EventTypeDescription>
+                    <EventDate>2020-10-11T00:00:00</EventDate>
+                </Event>
+                <Event>
+                    <EventTypeId>31</EventTypeId>
+                    <EventTypeDescription>Арбитражное дело</EventTypeDescription>
+                    <EventDate>2020-10-11T00:00:00</EventDate>
+                </Event>
+            </EventsList>
+            <BoardOfDirectors ActualDate="2020-06-30">
+                <Member>
+                    <Name>Аганбегян Рубен Абелович</Name>
+                    <INN>772700468144</INN>
+                    <BirthdayYear>1972</BirthdayYear>
+                    <Position Code="2" Name="Член совета директоров"/>
+                </Member>
+                <Member>
+                    <Name>Аузан Александр Александрович</Name>
+                    <BirthdayYear>1954</BirthdayYear>
+                    <Position Code="2" Name="Член совета директоров"/>
+                </Member>
+                <Member>
+                    <Name>Дмитриев Кирилл Александрович</Name>
+                    <INN>773013083324</INN>
+                    <BirthdayYear>1975</BirthdayYear>
+                    <Position Code="2" Name="Член совета директоров"/>
+                </Member>
+                <Member>
+                    <Name>Златопольский Антон Андреевич</Name>
+                    <BirthdayYear>1966</BirthdayYear>
+                    <Position Code="2" Name="Член совета директоров"/>
+                </Member>
+                <Member>
+                    <Name>Иванов Сергей Борисович</Name>
+                    <BirthdayYear>1953</BirthdayYear>
+                    <Position Code="2" Name="Член совета директоров"/>
+                </Member>
+                <Member>
+                    <Name>Иванченко Алексей Александрович</Name>
+                    <BirthdayYear>1979</BirthdayYear>
+                    <Position Code="2" Name="Член совета директоров"/>
+                </Member>
+                <Member>
+                    <Name>Никифоров Николай Анатольевич</Name>
+                    <INN>165907362073</INN>
+                    <BirthdayYear>1982</BirthdayYear>
+                    <Position Code="2" Name="Член совета директоров"/>
+                </Member>
+                <Member>
+                    <Name>Носков Константин Юрьевич</Name>
+                    <INN>772801560900</INN>
+                    <BirthdayYear>1978</BirthdayYear>
+                    <Position Code="2" Name="Член совета директоров"/>
+                </Member>
+                <Member>
+                    <Name>Осеевский Михаил Эдуардович</Name>
+                    <INN>780601120366</INN>
+                    <BirthdayYear>1960</BirthdayYear>
+                    <Position Code="2" Name="Член совета директоров"/>
+                    <SharePart>0,19</SharePart>
+                </Member>
+                <Member>
+                    <Name>Семенов Вадим Викторович</Name>
+                    <INN>781411147474</INN>
+                    <BirthdayYear>1965</BirthdayYear>
+                    <Position Code="2" Name="Член совета директоров"/>
+                </Member>
+                <Member>
+                    <Name>Яковицкий Алексей Андреевич</Name>
+                    <INN>772746028474</INN>
+                    <BirthdayYear>1975</BirthdayYear>
+                    <Position Code="2" Name="Член совета директоров"/>
+                </Member>
+            </BoardOfDirectors>
+            <ExecutiveBody ActualDate="2020-06-30">
+                <Member>
+                    <Name>Осеевский Михаил Эдуардович</Name>
+                    <INN>780601120366</INN>
+                    <BirthdayYear>1960</BirthdayYear>
+                    <Position Code="5" Name="Глава коллегиального исполнительного органа"/>
+                    <SharePart>0,19</SharePart>
+                </Member>
+                <Member>
+                    <Name>Анохин Сергей Николаевич</Name>
+                    <BirthdayYear>1979</BirthdayYear>
+                    <Position Code="4" Name="Член коллегиального исполнительного органа"/>
+                    <SharePart>0,019</SharePart>
+                </Member>
+                <Member>
+                    <Name>Кириенко Владимир Сергеевич</Name>
+                    <INN>770401548863</INN>
+                    <BirthdayYear>1983</BirthdayYear>
+                    <Position Code="4" Name="Член коллегиального исполнительного органа"/>
+                    <SharePart>0,096</SharePart>
+                </Member>
+                <Member>
+                    <Name>Меньшов Кирилл Алексеевич</Name>
+                    <BirthdayYear>1979</BirthdayYear>
+                    <Position Code="4" Name="Член коллегиального исполнительного органа"/>
+                    <SharePart>0,061</SharePart>
+                </Member>
+                <Member>
+                    <Name>Проскура Дмитрий Викторович</Name>
+                    <BirthdayYear>1970</BirthdayYear>
+                    <Position Code="4" Name="Член коллегиального исполнительного органа"/>
+                    <SharePart>0,047</SharePart>
+                </Member>
+                <Member>
+                    <Name>Рысакова Галина Васильевна</Name>
+                    <BirthdayYear>1967</BirthdayYear>
+                    <Position Code="4" Name="Член коллегиального исполнительного органа"/>
+                    <SharePart>0,088</SharePart>
+                </Member>
+                <Member>
+                    <Name>Сапунов Алексей Валерьевич</Name>
+                    <BirthdayYear>1977</BirthdayYear>
+                    <Position Code="4" Name="Член коллегиального исполнительного органа"/>
+                    <SharePart>0,066</SharePart>
+                </Member>
+                <Member>
+                    <Name>Шумейко Анна Викторовна</Name>
+                    <BirthdayYear>1972</BirthdayYear>
+                    <Position Code="4" Name="Член коллегиального исполнительного органа"/>
+                    <SharePart>0,072</SharePart>
+                </Member>
+            </ExecutiveBody>
+            <PersonsWithoutWarrant ActualDate="2017-03-14">
+                <Person FIO="Осеевский Михаил Эдуардович" Position="Президент" INN="780601120366"/>
+            </PersonsWithoutWarrant>
+            <StateContracts>
+                <FederalLaw94>
+                    <Year Year="2020">
+                        <Tenders AdmittedNumber="44442" NotAdmittedNumber="19" WinnerNumber="43446"/>
+                        <Contracts SignedNumber="44449" Sum="57291912322"/>
+                    </Year>
+                    <Year Year="2019">
+                        <Tenders AdmittedNumber="66159" NotAdmittedNumber="48" WinnerNumber="64097"/>
+                        <Contracts SignedNumber="69799" Sum="92166007376"/>
+                    </Year>
+                    <Year Year="2018">
+                        <Tenders AdmittedNumber="81739" NotAdmittedNumber="86" WinnerNumber="79550"/>
+                        <Contracts SignedNumber="81199" Sum="81919518319"/>
+                    </Year>
+                    <Year Year="2017">
+                        <Tenders AdmittedNumber="91889" NotAdmittedNumber="112" WinnerNumber="89628"/>
+                        <Contracts SignedNumber="91306" Sum="54063980364"/>
+                    </Year>
+                    <Year Year="2016">
+                        <Tenders AdmittedNumber="103764" NotAdmittedNumber="119" WinnerNumber="101599"/>
+                        <Contracts SignedNumber="102006" Sum="43397978856"/>
+                    </Year>
+                    <Year Year="2015">
+                        <Tenders AdmittedNumber="103932" NotAdmittedNumber="181" WinnerNumber="101913"/>
+                        <Contracts SignedNumber="102013" Sum="43314938384"/>
+                    </Year>
+                    <Year Year="2014">
+                        <Tenders AdmittedNumber="59153" NotAdmittedNumber="96" WinnerNumber="57681"/>
+                        <Contracts SignedNumber="45959" Sum="170139823734"/>
+                    </Year>
+                    <Year Year="2013">
+                        <Tenders AdmittedNumber="132224" NotAdmittedNumber="125" WinnerNumber="131337"/>
+                        <Contracts SignedNumber="131535" Sum="48315475637"/>
+                    </Year>
+                    <Year Year="2012">
+                        <Tenders AdmittedNumber="67968" NotAdmittedNumber="39" WinnerNumber="66919"/>
+                        <Contracts SignedNumber="66619" Sum="46112100509"/>
+                    </Year>
+                    <Year Year="2011">
+                        <Tenders AdmittedNumber="33994" NotAdmittedNumber="44" WinnerNumber="33056"/>
+                        <Contracts SignedNumber="32087" Sum="22268050346"/>
+                    </Year>
+                    <Year Year="2010">
+                        <Tenders AdmittedNumber="5051" NotAdmittedNumber="0" WinnerNumber="5051"/>
+                        <Contracts SignedNumber="5051" Sum="8209699487"/>
+                    </Year>
+                    <Year Year="2009">
+                        <Tenders AdmittedNumber="1723" NotAdmittedNumber="0" WinnerNumber="1723"/>
+                        <Contracts SignedNumber="1723" Sum="2605574652"/>
+                    </Year>
+                    <Year Year="2008">
+                        <Tenders AdmittedNumber="1430" NotAdmittedNumber="0" WinnerNumber="1430"/>
+                        <Contracts SignedNumber="1430" Sum="1795917534"/>
+                    </Year>
+                    <Year Year="2007">
+                        <Tenders AdmittedNumber="1697" NotAdmittedNumber="0" WinnerNumber="1697"/>
+                        <Contracts SignedNumber="1697" Sum="991635933"/>
+                    </Year>
+                    <Year Year="2006">
+                        <Tenders AdmittedNumber="642" NotAdmittedNumber="0" WinnerNumber="642"/>
+                        <Contracts SignedNumber="642" Sum="620085023"/>
+                    </Year>
+                    <Year Year="2005">
+                        <Tenders AdmittedNumber="158" NotAdmittedNumber="0" WinnerNumber="158"/>
+                        <Contracts SignedNumber="158" Sum="46360151"/>
+                    </Year>
+                    <Year Year="2004">
+                        <Tenders AdmittedNumber="57" NotAdmittedNumber="0" WinnerNumber="57"/>
+                        <Contracts SignedNumber="57" Sum="12901084"/>
+                    </Year>
+                    <Year Year="2003">
+                        <Tenders AdmittedNumber="48" NotAdmittedNumber="0" WinnerNumber="48"/>
+                        <Contracts SignedNumber="48" Sum="19403497"/>
+                    </Year>
+                    <Year Year="2002">
+                        <Tenders AdmittedNumber="5" NotAdmittedNumber="0" WinnerNumber="5"/>
+                        <Contracts SignedNumber="5" Sum="285681"/>
+                    </Year>
+                    <Year Year="2001">
+                        <Tenders AdmittedNumber="8" NotAdmittedNumber="0" WinnerNumber="8"/>
+                        <Contracts SignedNumber="8" Sum="7969428"/>
+                    </Year>
+                    <Year Year="2000">
+                        <Tenders AdmittedNumber="12" NotAdmittedNumber="0" WinnerNumber="12"/>
+                        <Contracts SignedNumber="12" Sum="5273286"/>
+                    </Year>
+                    <Year Year="1999">
+                        <Tenders AdmittedNumber="8" NotAdmittedNumber="0" WinnerNumber="8"/>
+                        <Contracts SignedNumber="8" Sum="10593964"/>
+                    </Year>
+                    <Year Year="1998">
+                        <Tenders AdmittedNumber="2" NotAdmittedNumber="0" WinnerNumber="2"/>
+                        <Contracts SignedNumber="2" Sum="500000"/>
+                    </Year>
+                </FederalLaw94>
+                <FederalLaw223>
+                    <Year Year="2020">
+                        <Tenders AdmittedNumber="449" NotAdmittedNumber="3" WinnerNumber="412"/>
+                        <Contracts SignedNumber="9" Sum="15983467"/>
+                    </Year>
+                    <Year Year="2019">
+                        <Tenders AdmittedNumber="2058" NotAdmittedNumber="24" WinnerNumber="1855"/>
+                        <Contracts SignedNumber="1152" Sum="1656378987"/>
+                    </Year>
+                    <Year Year="2018">
+                        <Tenders AdmittedNumber="4358" NotAdmittedNumber="110" WinnerNumber="3892"/>
+                        <Contracts SignedNumber="2632" Sum="4626326433"/>
+                    </Year>
+                    <Year Year="2017">
+                        <Tenders AdmittedNumber="5610" NotAdmittedNumber="114" WinnerNumber="5231"/>
+                        <Contracts SignedNumber="4681" Sum="14227687410"/>
+                    </Year>
+                    <Year Year="2016">
+                        <Tenders AdmittedNumber="6835" NotAdmittedNumber="120" WinnerNumber="6484"/>
+                        <Contracts SignedNumber="5760" Sum="27327323411"/>
+                    </Year>
+                    <Year Year="2015">
+                        <Tenders AdmittedNumber="5479" NotAdmittedNumber="123" WinnerNumber="5154"/>
+                        <Contracts SignedNumber="4437" Sum="7873772531"/>
+                    </Year>
+                    <Year Year="2014">
+                        <Tenders AdmittedNumber="2257" NotAdmittedNumber="71" WinnerNumber="2026"/>
+                        <Contracts SignedNumber="1121" Sum="1242759189"/>
+                    </Year>
+                    <Year Year="2013">
+                        <Tenders AdmittedNumber="832" NotAdmittedNumber="57" WinnerNumber="646"/>
+                        <Contracts SignedNumber="328" Sum="2897730942"/>
+                    </Year>
+                    <Year Year="2012">
+                        <Tenders AdmittedNumber="119" NotAdmittedNumber="10" WinnerNumber="92"/>
+                        <Contracts SignedNumber="43" Sum="48739406"/>
+                    </Year>
+                    <Year Year="2011">
+                        <Tenders AdmittedNumber="41" NotAdmittedNumber="0" WinnerNumber="41"/>
+                        <Contracts SignedNumber="41" Sum="24838710"/>
+                    </Year>
+                    <Year Year="2010">
+                        <Tenders AdmittedNumber="17" NotAdmittedNumber="0" WinnerNumber="17"/>
+                        <Contracts SignedNumber="17" Sum="16416780"/>
+                    </Year>
+                    <Year Year="2009">
+                        <Tenders AdmittedNumber="15" NotAdmittedNumber="0" WinnerNumber="15"/>
+                        <Contracts SignedNumber="15" Sum="4698974"/>
+                    </Year>
+                    <Year Year="2008">
+                        <Tenders AdmittedNumber="23" NotAdmittedNumber="0" WinnerNumber="23"/>
+                        <Contracts SignedNumber="23" Sum="17929838"/>
+                    </Year>
+                    <Year Year="2007">
+                        <Tenders AdmittedNumber="8" NotAdmittedNumber="0" WinnerNumber="8"/>
+                        <Contracts SignedNumber="8" Sum="3190248"/>
+                    </Year>
+                    <Year Year="2006">
+                        <Tenders AdmittedNumber="29" NotAdmittedNumber="0" WinnerNumber="29"/>
+                        <Contracts SignedNumber="29" Sum="11302861"/>
+                    </Year>
+                    <Year Year="2005">
+                        <Tenders AdmittedNumber="14" NotAdmittedNumber="0" WinnerNumber="14"/>
+                        <Contracts SignedNumber="14" Sum="25074826"/>
+                    </Year>
+                    <Year Year="2004">
+                        <Tenders AdmittedNumber="2" NotAdmittedNumber="0" WinnerNumber="2"/>
+                        <Contracts SignedNumber="2" Sum="0"/>
+                    </Year>
+                    <Year Year="2003">
+                        <Tenders AdmittedNumber="4" NotAdmittedNumber="0" WinnerNumber="4"/>
+                        <Contracts SignedNumber="4" Sum="201196"/>
+                    </Year>
+                    <Year Year="2001">
+                        <Tenders AdmittedNumber="2" NotAdmittedNumber="0" WinnerNumber="2"/>
+                        <Contracts SignedNumber="2" Sum="10000000"/>
+                    </Year>
+                    <Year Year="1999">
+                        <Tenders AdmittedNumber="2" NotAdmittedNumber="0" WinnerNumber="2"/>
+                        <Contracts SignedNumber="2" Sum="304388"/>
+                    </Year>
+                </FederalLaw223>
+            </StateContracts>
+            <ArbitrationCases Total="115511" Considered="2185" Appealed="190" DecisionsAndRulings="1054"
+                              Completed="112082">
+                <Year Year="2020">
+                    <Plaintiff CasesNumber="5532" Sum="3432222784"/>
+                    <Defendant CasesNumber="1003" Sum="489790116"/>
+                    <ThirdOrOtherPerson CasesNumber="248"/>
+                </Year>
+                <Year Year="2019">
+                    <Plaintiff CasesNumber="10608" Sum="3530179324"/>
+                    <Defendant CasesNumber="1240" Sum="1295937413"/>
+                    <ThirdOrOtherPerson CasesNumber="640"/>
+                </Year>
+                <Year Year="2018">
+                    <Plaintiff CasesNumber="10427" Sum="3379589179"/>
+                    <Defendant CasesNumber="790" Sum="2402879691"/>
+                    <ThirdOrOtherPerson CasesNumber="817"/>
+                </Year>
+                <Year Year="2017">
+                    <Plaintiff CasesNumber="13556" Sum="3010225820"/>
+                    <Defendant CasesNumber="931" Sum="827603568"/>
+                    <ThirdOrOtherPerson CasesNumber="957"/>
+                </Year>
+                <Year Year="2016">
+                    <Plaintiff CasesNumber="12824" Sum="3073760509"/>
+                    <Defendant CasesNumber="1053" Sum="1278746843"/>
+                    <ThirdOrOtherPerson CasesNumber="720"/>
+                </Year>
+                <Year Year="2015">
+                    <Plaintiff CasesNumber="10598" Sum="1939168709"/>
+                    <Defendant CasesNumber="1028" Sum="393675032"/>
+                    <ThirdOrOtherPerson CasesNumber="593"/>
+                </Year>
+                <Year Year="2014">
+                    <Plaintiff CasesNumber="10754" Sum="1056509043"/>
+                    <Defendant CasesNumber="964" Sum="483847197"/>
+                    <ThirdOrOtherPerson CasesNumber="543"/>
+                </Year>
+                <Year Year="2013">
+                    <Plaintiff CasesNumber="9640" Sum="1157075906"/>
+                    <Defendant CasesNumber="1036" Sum="328837615"/>
+                    <ThirdOrOtherPerson CasesNumber="612"/>
+                </Year>
+                <Year Year="2012">
+                    <Plaintiff CasesNumber="7156" Sum="105929387"/>
+                    <Defendant CasesNumber="747" Sum="86153243"/>
+                    <ThirdOrOtherPerson CasesNumber="563"/>
+                </Year>
+                <Year Year="2011">
+                    <Plaintiff CasesNumber="4794" Sum="77678865"/>
+                    <Defendant CasesNumber="446" Sum="63234545"/>
+                    <ThirdOrOtherPerson CasesNumber="479"/>
+                </Year>
+                <Year Year="2010">
+                    <Plaintiff CasesNumber="893" Sum="64305603"/>
+                    <Defendant CasesNumber="75" Sum="2095684"/>
+                    <ThirdOrOtherPerson CasesNumber="226"/>
+                </Year>
+                <Year Year="2009">
+                    <Plaintiff CasesNumber="2201" Sum="2188396691"/>
+                    <Defendant CasesNumber="157" Sum="9714686"/>
+                    <ThirdOrOtherPerson CasesNumber="273"/>
+                </Year>
+                <Year Year="2008">
+                    <Plaintiff CasesNumber="1631" Sum="58320796"/>
+                    <Defendant CasesNumber="78" Sum="14204068"/>
+                    <ThirdOrOtherPerson CasesNumber="141"/>
+                </Year>
+                <Year Year="2007">
+                    <Plaintiff CasesNumber="772" Sum="27291241"/>
+                    <Defendant CasesNumber="31" Sum="2149810"/>
+                    <ThirdOrOtherPerson CasesNumber="68"/>
+                </Year>
+                <Year Year="2006">
+                    <Plaintiff CasesNumber="203" Sum="11685217"/>
+                    <Defendant CasesNumber="20" Sum="234984"/>
+                    <ThirdOrOtherPerson CasesNumber="38"/>
+                </Year>
+                <Year Year="2005">
+                    <Plaintiff CasesNumber="87" Sum="192301121"/>
+                    <Defendant CasesNumber="8" Sum="1829050"/>
+                    <ThirdOrOtherPerson CasesNumber="15"/>
+                </Year>
+                <Year Year="2004">
+                    <Plaintiff CasesNumber="35" Sum="25246295"/>
+                    <Defendant CasesNumber="1" Sum="24685"/>
+                    <ThirdOrOtherPerson CasesNumber="5"/>
+                </Year>
+                <Year Year="2003">
+                    <Plaintiff CasesNumber="16" Sum="731174"/>
+                    <Defendant CasesNumber="1" Sum="295"/>
+                    <ThirdOrOtherPerson CasesNumber="5"/>
+                </Year>
+                <Year Year="2002">
+                    <Plaintiff CasesNumber="3" Sum="26564"/>
+                    <Defendant CasesNumber="1" Sum="0"/>
+                    <ThirdOrOtherPerson CasesNumber="2"/>
+                </Year>
+                <Year Year="2001">
+                    <Plaintiff CasesNumber="5" Sum="0"/>
+                    <Defendant CasesNumber="0" Sum="0"/>
+                    <ThirdOrOtherPerson CasesNumber="1"/>
+                </Year>
+                <Year Year="1999">
+                    <Plaintiff CasesNumber="1" Sum="253748"/>
+                    <Defendant CasesNumber="0" Sum="0"/>
+                    <ThirdOrOtherPerson CasesNumber="1"/>
+                </Year>
+                <Year Year="1900">
+                    <Plaintiff CasesNumber="1" Sum="0"/>
+                    <Defendant CasesNumber="0" Sum="0"/>
+                    <ThirdOrOtherPerson CasesNumber="0"/>
+                </Year>
+                <Year Year="1753">
+                    <Plaintiff CasesNumber="1" Sum="14158"/>
+                    <Defendant CasesNumber="0" Sum="0"/>
+                    <ThirdOrOtherPerson CasesNumber="0"/>
+                </Year>
+            </ArbitrationCases>
+            <ExecutionProceedings Active="77" Executed="4563"/>
+            <Pledges>
+                <Pledgee Active="8" Ceased="1"/>
+            </Pledges>
+        </Report>
+    </Data>
+    <ResultInfo ResultType="True" DateTime="2020-10-11T11:16:23" ExecutionTime="312"/>
+</Response>
